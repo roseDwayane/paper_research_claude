@@ -1,0 +1,698 @@
+{
+  "metadata": {
+    "topic": "gamification cognitive training aging",
+    "session_id": "eddb2dbd-bf53-4395-a45d-026284e154dd",
+    "searched_at": "2026-01-04T18:02:27.552724",
+    "queries": [
+      "gamification cognitive training aging"
+    ],
+    "total_papers": 41
+  },
+  "papers": [
+    {
+      "id": "openalex_ba3b28014590",
+      "title": "The Effects of Gamification on Computerized Cognitive Training: Systematic Review and Meta-Analysis",
+      "authors": [
+        "Julie F Vermeir",
+        "Melanie J. White",
+        "Daniel Johnson",
+        "Geert Crombez",
+        "Dimitri Van Ryckeghem"
+      ],
+      "year": 2020,
+      "abstract": "Background There has been a growing interest in the application of gamification (ie, the use of game elements) to computerized cognitive training. The introduction of targeted gamification features to such tasks may increase motivation and engagement as well as improve intervention effects. However, it is possible that game elements can also have adverse effects on cognitive training (eg, be a distraction), which can outweigh their potential motivational benefits. So far, little is known about the effectiveness of such applications. Objective This study aims to conduct a systematic review and meta-analysis to investigate the effect of gamification on process outcomes (eg, motivation) and on changes in the training domain (eg, cognition), as well as to explore the role of potential moderators. Methods We searched PsycINFO, Cumulative Index to Nursing and Allied Health Literature, ProQuest Psychology, Web of Science, Scopus, PubMed, Science Direct, Excerpta Medica dataBASE, Institute of Electrical and Electronics Engineers Xplore, Association for Computing Machinery, and a range of gray-area literature databases. The searches included papers published between 2008 and 2018. Meta-analyses were performed using a random-effects model. Results The systematic review identified 49 studies, of which 9 randomized controlled trials were included in the meta-analysis. The results of the review indicated that research in this context is still developing and lacks well-controlled empirical studies. Gamification in cognitive training is applied to a large range of age groups and audiences and is mostly delivered at a research site through computers. Rewards and feedback continue to dominate the gamification landscape, whereas social-oriented features (eg, competition) are underused. The meta-analyses showed that gamified training tasks were more motivating/engaging (Hedges g=0.72) and more demanding/difficult (Hedges g=–0.52) than non- or less-gamified tasks, whereas no effects on the training domain were found. Furthermore, no variables moderated the impact of gamified training tasks. However, meta-analytic findings were limited due to a small number of studies. Conclusions Overall, this review provides an overview of the existing research in the domain and provides evidence for the effectiveness of gamification in improving motivation/engagement in the context of cognitive training. We discuss the shortcomings in the current literature and provide recommendations for future research.",
+      "doi": "10.2196/18644",
+      "source": "openalex",
+      "citations": 157,
+      "journal": "JMIR Serious Games"
+    },
+    {
+      "id": "openalex_32287a420d44",
+      "title": "Gamification for Older Adults: A Systematic Literature Review",
+      "authors": [
+        "Jonna Koivisto",
+        "Aqdas Malik"
+      ],
+      "year": 2020,
+      "abstract": "Abstract Background and Objectives During past years, gamification has become a major trend in technology, and promising results of its effectiveness have been reported. However, prior research has predominantly focused on examining the effects of gamification among young adults, while other demographic groups such as older adults have received less attention. In this review, we synthesize existing scholarly work on the impact of gamification for older adults. Research Design and Methods A systematic search was conducted using 4 academic databases from inception through January 2019. A rigorous selection process was followed using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Results Twelve empirical peer-reviewed studies written in English, focusing on older adults aged ≥55, including a gameful intervention, and assessing subjective or objective outcomes were identified. Eleven of the 12 studies were conducted in the health domain. Randomized controlled study settings were reported in 8 studies. Positively oriented results were reported in 10 of 12 studies on visual attention rehabilitation, diabetes control, increasing positive emotions for patients with subthreshold depression, cognitive training and memory tests, engagement in training program, perceptions of self-efficacy, motivation and positive emotions of social gameplay conditions, increased physical activity and balancing ability, and increased learning performance and autonomy experiences. The results are, however, mostly weak indications of positive effects. Discussion and Implications Overall, the studies on gameful interventions for older adults suggest that senior users may benefit from gamification and game-based interventions, especially in the health domain. However, due to methodological shortcomings and limited amount of research available, further work in the area is called for.",
+      "doi": "10.1093/geront/gnaa047",
+      "source": "openalex",
+      "citations": 138,
+      "journal": "The Gerontologist"
+    },
+    {
+      "id": "pubmed_0eee526bf088",
+      "title": "Digital Gaming Interventions in Psychiatry: Evidence, Applications and Challenges.",
+      "authors": [
+        "Bhavika Vajawat",
+        "Prateek Varshney",
+        "Debanjan Banerjee"
+      ],
+      "year": 2021,
+      "abstract": "Human evolution has regularly intersected with technology. Digitalization of various services has brought a paradigm shift in consumerism. Treading this path, mental health practice has gradually moved to Digital Mental Health Interventions (DMHI), to improve service access and delivery. Applied games are one such innovation that has gained recent popularity in psychiatry. Based on the principles of gamification, they target psychosocial and cognitive domains, according to the deficits in various psychiatric disorders. They have been used to deliver cognitive behaviour therapy, cognitive training and rehabilitation, behavioural modification, social motivation, attention enhancement, and biofeedback. Research shows their utility in ADHD, autistic spectrum disorders, eating disorders, post-traumatic stress, impulse control disorders, depression, schizophrenia, dementia, and even healthy aging. Virtual reality and artificial intelligence have been used in conjunction with gaming interventions to improvise their scope. Even though these interventions hold promise in engagement, ease of use, reduction of stigma, and bridging the mental-health gap, there are pragmatic challenges, especially in developing countries. These include network quality, infrastructure, feasibility, socio-cultural adaptability, and potential for abuse. Keeping this in the background, this review summarizes the scope, promise, and evidence of digital gaming in psychiatric practice, and highlights the potential caveats in their implementation.",
+      "doi": "10.1016/j.psychres.2020.113585",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Psychiatry research"
+    },
+    {
+      "id": "openalex_d6eb57e57204",
+      "title": "Do-It-Yourself Gamified Cognitive Training: Viewpoint",
+      "authors": [
+        "Sjors C.F. van de Weijer",
+        "Mark L. Kuijf",
+        "Nienke M. de Vries",
+        "Bastiaan R. Bloem",
+        "Annelien Duits"
+      ],
+      "year": 2019,
+      "abstract": "Cognitive decline is an important nonmotor symptom in Parkinson disease (PD). Unfortunately, very few treatment options are available. Recent research pointed to small positive effects of nonpharmacological cognitive training in PD. Most of these trainings are performed under supervision and solely computerized versions of (traditional) paper-pencil cognitive training programs, lacking rewarding gamification stimulants that could help to promote adherence. By describing 3 different self-invented ways of cognitive gaming in patients with PD, we aimed to raise awareness for the potential of gamified cognitive training in PD patients. In addition, we hoped to inspire the readers with our case descriptions, highlighting the importance of both personalization and cocreation in the development of games for health. In this viewpoint, we have presented 3 PD patients with different ages, with different disease stages, and from various backgrounds, who all used self-invented cognitive training, including elements of personalization and gamification. To indicate generalization into a larger PD population, the recruitment results from a recent cognitive game trial are added. The presented cases show similarities in terms of awareness of their cognitive decline and the ways this process could potentially be counteracted, by looking for tools to train their cognition. On the basis of the response of the recruitment procedure, there seems to be interest in gamified cognitive training in a larger PD population too. Gamification may add to traditional therapies in terms of personalization and adherence. Positive results have already been found with gamified trainings in other populations, and the cases described here suggest that PD is also an attractive area to develop and test gamified cognitive trainings. However, no results of gamified cognitive trainings in PD have been published to date. This suggests an unmet need in this area and may justify the development of gamified cognitive training and its evaluation, for which our considerations can be used.",
+      "doi": "10.2196/12130",
+      "source": "openalex",
+      "citations": 19,
+      "journal": "JMIR Serious Games"
+    },
+    {
+      "id": "openalex_491d104e0fa7",
+      "title": "Artificial Intelligence in Education: A Review",
+      "authors": [
+        "Lijia Chen",
+        "Pingping Chen",
+        "Zhijian Lin"
+      ],
+      "year": 2020,
+      "abstract": "The purpose of this study was to assess the impact of Artificial Intelligence (AI) on education. Premised on a narrative and framework for assessing AI identified from a preliminary analysis, the scope of the study was limited to the application and effects of AI in administration, instruction, and learning. A qualitative research approach, leveraging the use of literature review as a research design and approach was used and effectively facilitated the realization of the study purpose. Artificial intelligence is a field of study and the resulting innovations and developments that have culminated in computers, machines, and other artifacts having human-like intelligence characterized by cognitive abilities, learning, adaptability, and decision-making capabilities. The study ascertained that AI has extensively been adopted and used in education, particularly by education institutions, in different forms. AI initially took the form of computer and computer related technologies, transitioning to web-based and online intelligent education systems, and ultimately with the use of embedded computer systems, together with other technologies, the use of humanoid robots and web-based chatbots to perform instructors' duties and functions independently or with instructors. Using these platforms, instructors have been able to perform different administrative functions, such as reviewing and grading students' assignments more effectively and efficiently, and achieve higher quality in their teaching activities. On the other hand, because the systems leverage machine learning and adaptability, curriculum and content has been customized and personalized in line with students' needs, which has fostered uptake and retention, thereby improving learners experience and overall quality of learning.",
+      "doi": "10.1109/access.2020.2988510",
+      "source": "openalex",
+      "citations": 2768,
+      "journal": "IEEE Access"
+    },
+    {
+      "id": "openalex_5bc3143f901a",
+      "title": "Cognitive Function Training System Using Game-Based Design for Elderly Drivers",
+      "authors": [
+        "Toshihiro Hiraoka",
+        "Ting-Wen Wang",
+        "Hiroshi Kawakami"
+      ],
+      "year": 2016,
+      "abstract": "It has been found that age-related decline of cognitive ability is one of risk factors for traffic accidents among the elderly. Therefore, the present study introduced a new game- based cognitive function training system, which was designed by cognitive evaluation theory, gamification, interface design guidelines for driver-assistance systems and fuben-eki principle. It uses a trail making game to train and measure driver's visual attention ability, and the score was transformed to limit the vehicle's maximum velocity. Simulator experiments were performed to verify that it enlarged the degree of useful field of view to enhance the hazard perception ability.",
+      "doi": "10.1016/j.ifacol.2016.10.613",
+      "source": "openalex",
+      "citations": 16,
+      "journal": "IFAC-PapersOnLine"
+    },
+    {
+      "id": "openalex_f6d6bcb1fa6c",
+      "title": "Brain training with the body in mind: Towards gamified approach-avoidance training using virtual reality",
+      "authors": [
+        "Naomi Kakoschke",
+        "Rowan Page",
+        "Barbora de Courten",
+        "Antonio Verdejo‐García",
+        "Jon McCormack"
+      ],
+      "year": 2021,
+      "abstract": null,
+      "doi": "10.1016/j.ijhcs.2021.102626",
+      "source": "openalex",
+      "citations": 26,
+      "journal": "International Journal of Human-Computer Studies"
+    },
+    {
+      "id": "openalex_8b663b512270",
+      "title": "Parkinson's disease",
+      "authors": [
+        "Bastiaan R. Bloem",
+        "Michael S. Okun",
+        "Christine Klein"
+      ],
+      "year": 2021,
+      "abstract": null,
+      "doi": "10.1016/s0140-6736(21)00218-x",
+      "source": "openalex",
+      "citations": 3014,
+      "journal": "The Lancet"
+    },
+    {
+      "id": "openalex_1e66e212ec39",
+      "title": "Gamifying education: what is known, what is believed and what remains uncertain: a critical review",
+      "authors": [
+        "Christo Dichev",
+        "Darina Dicheva"
+      ],
+      "year": 2017,
+      "abstract": "Abstract Gamification of education is a developing approach for increasing learners’ motivation and engagement by incorporating game design elements in educational environments. With the growing popularity of gamification and yet mixed success of its application in educational contexts, the current review is aiming to shed a more realistic light on the research in this field by focusing on empirical evidence rather than on potentialities, beliefs or preferences. Accordingly, it critically examines the advancement in gamifying education. The discussion is structured around the used gamification mechanisms, the gamified subjects, the type of gamified learning activities, and the study goals, with an emphasis on the reliability and validity of the reported outcomes. To improve our understanding and offer a more realistic picture of the progress of gamification in education, consistent with the presented evidence, we examine both the outcomes reported in the papers and how they have been obtained. While the gamification in education is still a growing phenomenon, the review reveals that (i) insufficient evidence exists to support the long-term benefits of gamification in educational contexts; (ii) the practice of gamifying learning has outpaced researchers’ understanding of its mechanisms and methods; (iii) the knowledge of how to gamify an activity in accordance with the specifics of the educational context is still limited. The review highlights the need for systematically designed studies and rigorously tested approaches confirming the educational benefits of gamification, if gamified learning is to become a recognized instructional approach.",
+      "doi": "10.1186/s41239-017-0042-5",
+      "source": "openalex",
+      "citations": 1225,
+      "journal": "International Journal of Educational Technology in Higher Education"
+    },
+    {
+      "id": "openalex_2f3528177db7",
+      "title": "Gorilla in our midst: An online behavioral experiment builder",
+      "authors": [
+        "Alexander Leslie Anwyl-Irvine",
+        "Jessica Massonnié",
+        "Adam Flitton",
+        "Natasha Z. Kirkham",
+        "Jo Evershed"
+      ],
+      "year": 2019,
+      "abstract": null,
+      "doi": "10.3758/s13428-019-01237-x",
+      "source": "openalex",
+      "citations": 1742,
+      "journal": "Behavior Research Methods"
+    },
+    {
+      "id": "openalex_c20cd58392fb",
+      "title": "Gamification-based intervention for enhancing team effectiveness and coping flexibility: Randomized controlled trial",
+      "authors": [
+        "Cecilia Cheng",
+        "Chor-lam Chau"
+      ],
+      "year": 2022,
+      "abstract": "This study aimed to evaluate a newly developed gamification-based intervention of serious play training (SPT). A randomized controlled trial was conducted to assess the efficacy of the new intervention program in comparison with a widely adopted cognitive-behavioral training (CBT) program. Real-life work teams were recruited to enhance the ecological validity of outcome evaluation. The participants comprised 250 Chinese working adults (68% men; median age = 25 years, range: 18–40) who took part voluntarily. They were randomly assigned to the SPT, CBT, and waitlist conditions. For outcome evaluation, team effectiveness was the primary outcome, whereas coping flexibility was the secondary outcome. For explanation of outcome changes, group cohesion and discriminative thinking were tested as the hypothesized learning mechanisms. The results revealed that the SPT group alone reported greater team effectiveness over time, with an increase in group cohesion found to explain the improvement. Both the SPT and CBT groups reported greater coping flexibility over time, with discriminative thinking found to account for the beneficial changes. These findings provide initial evidence indicating the efficacy of utilizing the gamification approach in corporate training for team-building and personal coping.",
+      "doi": "10.3389/fpsyt.2022.941252",
+      "source": "openalex",
+      "citations": 9,
+      "journal": "Frontiers in Psychiatry"
+    },
+    {
+      "id": "openalex_91bbee7ad613",
+      "title": "Effects of COVID-19 Home Confinement on Eating Behaviour and Physical Activity: Results of the ECLB-COVID19 International Online Survey",
+      "authors": [
+        "Achraf Ammar",
+        "Michael Brach",
+        "Khaled Trabelsi",
+        "Hamdi Chtourou",
+        "Omar Boukhris",
+        "Liwa Masmoudi",
+        "Bassem Bouaziz",
+        "Ellen Bentlage",
+        "Daniella How",
+        "Mona Ahmed"
+      ],
+      "year": 2020,
+      "abstract": "Background: Public health recommendations and governmental measures during the COVID-19 pandemic have resulted in numerous restrictions on daily living including social distancing, isolation and home confinement. While these measures are imperative to abate the spreading of COVID-19, the impact of these restrictions on health behaviours and lifestyles at home is undefined. Therefore, an international online survey was launched in April 2020, in seven languages, to elucidate the behavioural and lifestyle consequences of COVID-19 restrictions. This report presents the results from the first thousand responders on physical activity (PA) and nutrition behaviours. Methods: Following a structured review of the literature, the “Effects of home Confinement on multiple Lifestyle Behaviours during the COVID-19 outbreak (ECLB-COVID19)” Electronic survey was designed by a steering group of multidisciplinary scientists and academics. The survey was uploaded and shared on the Google online survey platform. Thirty-five research organisations from Europe, North-Africa, Western Asia and the Americas promoted the survey in English, German, French, Arabic, Spanish, Portuguese and Slovenian languages. Questions were presented in a differential format, with questions related to responses “before” and “during” confinement conditions. Results: 1047 replies (54% women) from Asia (36%), Africa (40%), Europe (21%) and other (3%) were included in the analysis. The COVID-19 home confinement had a negative effect on all PA intensity levels (vigorous, moderate, walking and overall). Additionally, daily sitting time increased from 5 to 8 h per day. Food consumption and meal patterns (the type of food, eating out of control, snacks between meals, number of main meals) were more unhealthy during confinement, with only alcohol binge drinking decreasing significantly. Conclusion: While isolation is a necessary measure to protect public health, results indicate that it alters physical activity and eating behaviours in a health compromising direction. A more detailed analysis of survey data will allow for a segregation of these responses in different age groups, countries and other subgroups, which will help develop interventions to mitigate the negative lifestyle behaviours that have manifested during the COVID-19 confinement.",
+      "doi": "10.3390/nu12061583",
+      "source": "openalex",
+      "citations": 2027,
+      "journal": "Nutrients"
+    },
+    {
+      "id": "openalex_97b500a9b607",
+      "title": "Feasibility and potential cognitive impact of a cognitive-motor dual-task training program using a custom exergame in older adults: A pilot study",
+      "authors": [
+        "Matthieu Gallou‐Guyot",
+        "Stéphane Mandigout",
+        "Romain Marie",
+        "Louise Robin",
+        "Jean‐Christophe Daviet",
+        "Anaïck Perrochon"
+      ],
+      "year": 2023,
+      "abstract": "Introduction Dual-task training may be relevant and efficient in the context of active aging. An issue in training programs lies in enhancing the adherence of participants. This can potentially be improved using games as support. We designed and developed a custom interactive exergame in this way. The objective of this pilot study was to explore the potential use of this exergame and the feasibility of our intervention, including the level of safety and adherence. The result’s trends on cognitive and motor capacities, as well as on the level of motivation for physical activity, fear of falling, and quality of life of participants, were also explored. Methods Older adults aged 65 years or older were recruited and realized 30 min of supervised training in groups of 4, 2–3 times a week for 12 weeks. Exercises consisted of incorporated cognitive and motor dual tasks, with an increased difficulty over the weeks. Our program’s safety, engagement, attendance, and completion levels were evaluated. Participants’ postural control in single-task and dual-task conditions, as well as their performances in mental inhibition, flexibility, working memory, mobility, and postural control, and their levels of motivation for physical activity, fear of falling, and quality of life were also assessed. We realized a per protocol statistical analysis with a p -value set at 0.05. Results Thirty-nine participants (aged 84.6 ± 8.5 years) were recruited. No adverse events, and 89% adherence, 88% attendance, and 87% completion rates were observed. A potentially significant effect of our exergame on working memory in single-task conditions and on the cognitive aspect of dual-task conditions was also observed. We observed no differences in other parameters. Discussion Our exergame seemed feasible and safe and was enjoyed by participants, mainly due to the gamification of our training program. Moreover, our exergame may be efficient for cognitive training in older adults, as well as for the maintenance of motor functions, motivation for physical activity, fear of falling, and quality of life levels. This constitutes the first step for our solution with interesting results that need to be further studied.",
+      "doi": "10.3389/fnagi.2023.1046676",
+      "source": "openalex",
+      "citations": 14,
+      "journal": "Frontiers in Aging Neuroscience"
+    },
+    {
+      "id": "openalex_7aa4ce512840",
+      "title": "AI-Rehab: A Framework for AI Driven Neurorehabilitation Training - The Profiling Challenge",
+      "authors": [
+        "Yuri Almeida",
+        "Manisha Sirsat",
+        "Sergi Bermúdez i Badia",
+        "Eduardo Fermé"
+      ],
+      "year": 2020,
+      "abstract": "One of the health clinic challenges is rehabilitation therapy cognitive impairment that can happen after brain injury, dementia and in normal cognitive decline due to aging. Current cognitive rehabilitation therapy has been shown to be the most effective way to address this problem. However, a) it is not adaptive for every patient, b) it has a high cost, and c) it is usually implemented in clinical environments. The Task Generator (TG) is a free tool for the generation of cognitive training tasks. However, TG is not designed to adapt and monitor the cognitive progress of the patient. Hence, we propose in the BRaNT project an enhancement of TG with belief revision and machine learning techniques, gamification and remote monitoring capabilities to enable health professionals to provide a long-term personalized cognitive rehabilitation therapy at home. The BRaNT is an interdisciplinary effort that addresses scientific limitations of current practices as well as provides solutions towards the sustainability of health systems and contributes towards the improvement of quality of life of patients. This paper proposes the AI-Rehab framework for the BRaNT, explains profiling challenge in the situation of insufficient data and presents an alternate AI solutions which might be applicable once enough data is available.",
+      "doi": "10.5220/0009369108450853",
+      "source": "openalex",
+      "citations": 11,
+      "journal": null
+    },
+    {
+      "id": "openalex_f7e464bf2051",
+      "title": "Gamification for Education 5.0",
+      "authors": [
+        "D. Ramya Chitra"
+      ],
+      "year": 2021,
+      "abstract": "Gamification uses game-like attributes in the educational context, which helps users to achieve their goals and overcome their negative orientation towards the system. Games developed for education are not restricted to age, culture, or subject and were very active in apprising the tasks presented by the user. Hence, this chapter provides augmented reality games that can change students' learning practice. Some of the popular tools for gamification of math programs, language learning, and classroom platforms adapted to all platforms are given. The case studies of using gamification in school education for music, biology, mathematics, literacy, and vocabulary learning, and in higher education for information studies, computer science, computer organization and cloud computing, library, Unified Modeling Language, mathematics, vocational courses, factory management, manufacturing training, software development, French language, software engineering, etc., are given with the features used and the results. Finally, the effects of gamification on students' satisfaction, cognitive load, and social problems are described.",
+      "doi": "10.1201/9781003175896-6",
+      "source": "openalex",
+      "citations": 7,
+      "journal": "Auerbach Publications eBooks"
+    },
+    {
+      "id": "openalex_bb84846dcdd0",
+      "title": "Gamification of Cognitive Assessment and Cognitive Training: A Systematic Review of Applications and Efficacy",
+      "authors": [
+        "Jim Lumsden",
+        "Elizabeth A. Edwards",
+        "Natalia Lawrence",
+        "David Coyle",
+        "Marcus R. Munafò"
+      ],
+      "year": 2016,
+      "abstract": "Heterogeneous study designs and typically small sample sizes highlight the need for further research in both gamified training and testing. Nevertheless, careful application of gamification can provide a way to develop engaging and yet scientifically valid cognitive assessments, and it is likely worthwhile to continue to develop gamified cognitive tasks in the future.",
+      "doi": "10.2196/games.5888",
+      "source": "openalex",
+      "citations": 528,
+      "journal": "JMIR Serious Games"
+    },
+    {
+      "id": "openalex_6a6bd2fd2c8d",
+      "title": "Mental Health Smartphone Apps: Review and Evidence-Based Recommendations for Future Developments",
+      "authors": [
+        "David Bakker",
+        "Nikolaos Kazantzis",
+        "Debra Rickwood",
+        "Nikki S. Rickard"
+      ],
+      "year": 2016,
+      "abstract": "Background The number of mental health apps (MHapps) developed and now available to smartphone users has increased in recent years. MHapps and other technology-based solutions have the potential to play an important part in the future of mental health care; however, there is no single guide for the development of evidence-based MHapps. Many currently available MHapps lack features that would greatly improve their functionality, or include features that are not optimized. Furthermore, MHapp developers rarely conduct or publish trial-based experimental validation of their apps. Indeed, a previous systematic review revealed a complete lack of trial-based evidence for many of the hundreds of MHapps available. Objective To guide future MHapp development, a set of clear, practical, evidence-based recommendations is presented for MHapp developers to create better, more rigorous apps. Methods A literature review was conducted, scrutinizing research across diverse fields, including mental health interventions, preventative health, mobile health, and mobile app design. Results Sixteen recommendations were formulated. Evidence for each recommendation is discussed, and guidance on how these recommendations might be integrated into the overall design of an MHapp is offered. Each recommendation is rated on the basis of the strength of associated evidence. It is important to design an MHapp using a behavioral plan and interactive framework that encourages the user to engage with the app; thus, it may not be possible to incorporate all 16 recommendations into a single MHapp. Conclusions Randomized controlled trials are required to validate future MHapps and the principles upon which they are designed, and to further investigate the recommendations presented in this review. Effective MHapps are required to help prevent mental health problems and to ease the burden on health systems.",
+      "doi": "10.2196/mental.4984",
+      "source": "openalex",
+      "citations": 929,
+      "journal": "JMIR Mental Health"
+    },
+    {
+      "id": "openalex_2e8ba919acfd",
+      "title": "Digital gaming interventions: a novel paradigm in mental health? Perspectives from India",
+      "authors": [
+        "Debanjan Banerjee",
+        "Bhavika Vajawat",
+        "Prateek Varshney"
+      ],
+      "year": 2020,
+      "abstract": "The mental health gap has been a persistent concern globally, especially in low and middle-income countries (LMIC). In an attempt to mitigate resource limitations, the psychiatric practice has been undergoing a paradigm shift into digitalized mental health interventions. One such innovation involves digital gaming utilizing the principles of 'gamification' to incorporate both the playfulness component of online gaming as well as the domain-targeted design of gaming elements. Digital gaming-based interventions have been to deliver psychotherapy, biofeedback, cognitive training and rehabilitation, as well as behavioural modification and social skills training. Research shows their utility in autism spectrum disorders, attention deficit disorders, schizophrenia, depression, anxiety disorders, post-traumatic stress, eating disorders, neurocognitive disorders and also to promote healthy aging. Though promising in scope, these interventions face pragmatic challenges for implementation in developing countries. Even though increased use of technology, internet penetration and growing digital literacy have enhanced their accessibility and feasibility, various factors like socio-cultural diversity, lack of standardization, poor infrastructural support, bandwidth issues and lack of practice can impair their use and acceptability. Keeping this in the background, this commentary critically discusses the scope, applications and challenges of digital gaming in mental healthcare delivery in one of the rapidly globalizing LMIC nations, India.",
+      "doi": "10.1080/09540261.2020.1839392",
+      "source": "openalex",
+      "citations": 15,
+      "journal": "International Review of Psychiatry"
+    },
+    {
+      "id": "openalex_d28ba39baf19",
+      "title": "Serious Gaming and Gamification Education in Health Professions: Systematic Review",
+      "authors": [
+        "Sarah Gentry",
+        "A. Gauthier",
+        "Beatrice L’Estrade Ehrstrom",
+        "David Wortley",
+        "Anneliese Lilienthal",
+        "Lorainne Tudor Car",
+        "Shoko Dauwels-Okutsu",
+        "Charoula Konstantia Nikolaou",
+        "Nabil Zary",
+        "James Campbell"
+      ],
+      "year": 2019,
+      "abstract": "Serious gaming/gamification appears to be at least as effective as controls, and in many studies, more effective for improving knowledge, skills, and satisfaction. However, the available evidence is mostly of low quality and calls for further rigorous, theory-driven research.",
+      "doi": "10.2196/12994",
+      "source": "openalex",
+      "citations": 563,
+      "journal": "Journal of Medical Internet Research"
+    },
+    {
+      "id": "openalex_2f2a5cce6fe7",
+      "title": "The Internet of Things for Health Care: A Comprehensive Survey",
+      "authors": [
+        "S. M. Riazul Islam",
+        "Daehan Kwak",
+        "Md. Humaun Kabir",
+        "Mahmud Hossain",
+        "Kyung Sup Kwak"
+      ],
+      "year": 2015,
+      "abstract": "The Internet of Things (IoT) makes smart objects the ultimate building blocks in the development of cyber-physical smart pervasive frameworks. The IoT has a variety of application domains, including health care. The IoT revolution is redesigning modern health care with promising technological, economic, and social prospects. This paper surveys advances in IoT-based health care technologies and reviews the state-of-the-art network architectures/platforms, applications, and industrial trends in IoT-based health care solutions. In addition, this paper analyzes distinct IoT security and privacy features, including security requirements, threat models, and attack taxonomies from the health care perspective. Further, this paper proposes an intelligent collaborative security model to minimize security risk; discusses how different innovations such as big data, ambient intelligence, and wearables can be leveraged in a health care context; addresses various IoT and eHealth policies and regulations across the world to determine how they can facilitate economies and societies in terms of sustainable development; and provides some avenues for future research on IoT-based health care based on a set of open issues and challenges.",
+      "doi": "10.1109/access.2015.2437951",
+      "source": "openalex",
+      "citations": 2890,
+      "journal": "IEEE Access"
+    },
+    {
+      "id": "openalex_338961eaa57c",
+      "title": "Gamification of health professions education: a systematic review",
+      "authors": [
+        "A E J Van Gaalen",
+        "Jasperina Brouwer",
+        "Johanna Schönrock-Adema",
+        "Tineke Bouwkamp‐Timmer",
+        "Debbie Jaarsma",
+        "Janniko R. Georgiadis"
+      ],
+      "year": 2020,
+      "abstract": null,
+      "doi": "10.1007/s10459-020-10000-3",
+      "source": "openalex",
+      "citations": 535,
+      "journal": "Advances in Health Sciences Education"
+    },
+    {
+      "id": "openalex_71a8d078cd03",
+      "title": "Persuasive System Design Does Matter: a Systematic Review of Adherence to Web-based Interventions",
+      "authors": [
+        "Saskia M. Kelders",
+        "Robin N. Kok",
+        "Hans C. Ossebaard",
+        "Julia E.W.C. van Gemert‐Pijnen"
+      ],
+      "year": 2012,
+      "abstract": "Using intervention characteristics and persuasive technology elements, a substantial amount of variance in adherence can be explained. Although there are differences between health care areas on intervention characteristics, health care area per se does not predict adherence. Rather, the differences in technology and interaction predict adherence. The results of this study can be used to make an informed decision about how to design a web-based intervention to which patients are more likely to adhere.",
+      "doi": "10.2196/jmir.2104",
+      "source": "openalex",
+      "citations": 1391,
+      "journal": "Journal of Medical Internet Research"
+    },
+    {
+      "id": "openalex_c73dc093b995",
+      "title": "Accessibility and Gamification Applied to Cognitive Training and Memory Improvement",
+      "authors": [
+        "Ana Carol Pontes de França",
+        "Arcângelo dos Santos Safanelli",
+        "Léia Mayer Eyng",
+        "Rodrigo Diego de Oliveira",
+        "Vânia Ribas Ulbricht",
+        "Vilma Villarouco"
+      ],
+      "year": 2019,
+      "abstract": null,
+      "doi": "10.1007/978-3-030-11890-7_43",
+      "source": "openalex",
+      "citations": 4,
+      "journal": "Advances in intelligent systems and computing"
+    },
+    {
+      "id": "openalex_9c11191ede13",
+      "title": "When and Why Incentives (Don't) Work to Modify Behavior",
+      "authors": [
+        "Uri Gneezy",
+        "Stephan Meier",
+        "Pedro Rey‐Biel"
+      ],
+      "year": 2011,
+      "abstract": "First we discuss how extrinsic incentives may come into conflict with other motivations. For example, monetary incentives from principals may change how tasks are perceived by agents, with negative effects on behavior. In other cases, incentives might have the desired effects in the short term, but they still weaken intrinsic motivations. To put it in concrete terms, an incentive for a child to learn to read might achieve that goal in the short term, but then be counterproductive as an incentive for students to enjoy reading and seek it out over their lifetimes. Next we examine the research literature on three important examples in which monetary incentives have been used in a nonemployment context to foster the desired behavior: education; increasing contributions to public goods; and helping people change their lifestyles, particularly with regard to smoking and exercise. The conclusion sums up some lessons on when extrinsic incentives are more or less likely to alter such behaviors in the desired directions.",
+      "doi": "10.1257/jep.25.4.191",
+      "source": "openalex",
+      "citations": 1673,
+      "journal": "The Journal of Economic Perspectives"
+    },
+    {
+      "id": "openalex_21cac5596f89",
+      "title": "Students’ perception of Kahoot!’s influence on teaching and learning",
+      "authors": [
+        "Sherlock A. Licorish",
+        "Helen Owen",
+        "Ben Kei Daniel",
+        "Jade Li George"
+      ],
+      "year": 2018,
+      "abstract": null,
+      "doi": "10.1186/s41039-018-0078-8",
+      "source": "openalex",
+      "citations": 489,
+      "journal": "Research and Practice in Technology Enhanced Learning"
+    },
+    {
+      "id": "openalex_1d4ba1d36116",
+      "title": "Basic psychological need theory: Advancements, critical themes, and future directions",
+      "authors": [
+        "Maarten Vansteenkiste",
+        "Richard M. Ryan",
+        "Bart Soenens"
+      ],
+      "year": 2020,
+      "abstract": null,
+      "doi": "10.1007/s11031-019-09818-1",
+      "source": "openalex",
+      "citations": 1460,
+      "journal": "Motivation and Emotion"
+    },
+    {
+      "id": "openalex_b0086e8ad041",
+      "title": "Social motivations of live-streaming viewer engagement on Twitch",
+      "authors": [
+        "Zorah Hilvert-Bruce",
+        "James T. Neill",
+        "Max Sjöblom",
+        "Juho Hamari"
+      ],
+      "year": 2018,
+      "abstract": null,
+      "doi": "10.1016/j.chb.2018.02.013",
+      "source": "openalex",
+      "citations": 782,
+      "journal": "Computers in Human Behavior"
+    },
+    {
+      "id": "openalex_8befd099f346",
+      "title": "Between Level Up and Game Over: A Systematic Literature Review of Gamification in Education",
+      "authors": [
+        "Ana Manzano León",
+        "Pablo Camacho-Lazarraga",
+        "Miguel Ángel Gallegos Guerrero",
+        "Laura Guerrero Puerta",
+        "José M. Aguilar-Parra",
+        "Rubén Trigueros",
+        "Antonio Aliás Garcia"
+      ],
+      "year": 2021,
+      "abstract": "Educational gamification consists of the use of game elements and game design techniques in the educational context. The objective of this study is to examine the existing evidence on the impact of educational gamification on student motivation and academic performance in the last five years in order to analyze its distribution over time, educational level, variables, and most used game elements, and know the advantages of its implementation in the classroom. For this, a systematic review is proposed through the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) methodology in three multidisciplinary databases, through an exhaustive search with inclusion and exclusion criteria on quantitative experimental studies that explore gamification in educational centers, which provide information about the most current lines of research. Fourteen studies were included in this review. These used experimental or quasi-experimental designs. Most of them report gamification as a valid learning strategy. The results support the conclusion that educational gamification has a potential impact on the academic performance, commitment, and motivation of students. Therefore, this study implies the need to expand research on the needs and challenges of students when learning with gamified techniques.",
+      "doi": "10.3390/su13042247",
+      "source": "openalex",
+      "citations": 448,
+      "journal": "Sustainability"
+    },
+    {
+      "id": "openalex_aa65ebfb5e55",
+      "title": "A critical review of flipped classroom challenges in K-12 education: possible solutions and recommendations for future research",
+      "authors": [
+        "Chung Kwan Lo",
+        "Khe Foon Hew"
+      ],
+      "year": 2017,
+      "abstract": null,
+      "doi": "10.1186/s41039-016-0044-2",
+      "source": "openalex",
+      "citations": 558,
+      "journal": "Research and Practice in Technology Enhanced Learning"
+    },
+    {
+      "id": "openalex_0fc8c7e4b4df",
+      "title": "Toward a Rational and Mechanistic Account of Mental Effort",
+      "authors": [
+        "Amitai Shenhav",
+        "Sebastian Musslick",
+        "Falk Lieder",
+        "Wouter Kool",
+        "Thomas L. Griffiths",
+        "Jonathan D. Cohen",
+        "Matthew Botvinick"
+      ],
+      "year": 2017,
+      "abstract": "In spite of its familiar phenomenology, the mechanistic basis for mental effort remains poorly understood. Although most researchers agree that mental effort is aversive and stems from limitations in our capacity to exercise cognitive control, it is unclear what gives rise to those limitations and why they result in an experience of control as costly. The presence of these control costs also raises further questions regarding how best to allocate mental effort to minimize those costs and maximize the attendant benefits. This review explores recent advances in computational modeling and empirical research aimed at addressing these questions at the level of psychological process and neural mechanism, examining both the limitations to mental effort exertion and how we manage those limited cognitive resources. We conclude by identifying remaining challenges for theoretical accounts of mental effort as well as possible applications of the available findings to understanding the causes of and potential solutions for apparent failures to exert the mental effort required of us.",
+      "doi": "10.1146/annurev-neuro-072116-031526",
+      "source": "openalex",
+      "citations": 1058,
+      "journal": "Annual Review of Neuroscience"
+    },
+    {
+      "id": "pubmed_aaa6d32fb3d8",
+      "title": "Effects of Virtual Reality Motor-Cognitive Training for Older People With Cognitive Frailty: Multicentered Randomized Controlled Trial.",
+      "authors": [
+        "Rick Yiu Cho Kwan",
+        "Justina Liu",
+        "Olive Suk Kan Sin",
+        "Kenneth N K Fong",
+        "Jing Qin",
+        "Joe Chi Yin Wong",
+        "Claudia Lai"
+      ],
+      "year": 2024,
+      "abstract": "Cognitive frailty refers to a clinical syndrome in which physical frailty and mild cognitive impairment coexist. Motor-cognitive training and virtual reality (VR) have been used to launch various therapeutic modalities to promote health in older people. The literature advocates that motor-cognitive training and VR are effective in promoting the cognitive and physical function of older people. However, the effects on older people with cognitive frailty are unclear.",
+      "doi": "10.2196/57809",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Journal of medical Internet research"
+    },
+    {
+      "id": "pubmed_b8f78ffc3ee7",
+      "title": "Effective engagement in computerized cognitive training for older adults.",
+      "authors": [
+        "Anna Luiza Guimarães",
+        "Feng V Lin",
+        "Rogerio Panizzutti",
+        "Adam Turnbull"
+      ],
+      "year": 2025,
+      "abstract": "Computerized cognitive training (CCT) is a frontline therapy to prevent or slow age-related cognitive decline. A prerequisite for CCT research to provide clinically relevant improvements in cognition is to understand effective engagement, i.e., the pattern of energy investment that ensures CCT effectiveness. Even though previous studies have assessed whether particular variables (e.g., gamification) predict engagement and/or CCT effectiveness, the field lacks a systematic approach to understanding effective engagement. Here, by comprehensively reviewing and evaluating engagement and adjacent literature, we propose a standardized measurement and operational framework to promote effective engagement with CCT targeting cognitive decline in older adults. We suggest that promoting effective engagement with CCT has two key steps: 1) comprehensively measuring engagement with CCT and 2) identifying which aspects of engagement are essential to achieve the pre-specified outcome of clinically relevant improvements in cognition. The proposed measurement and operational framework of effective engagement will allow future research to maximize older adults' engagement with CCT to slow/prevent age-related cognitive decline.",
+      "doi": "10.1016/j.arr.2024.102650",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Ageing research reviews"
+    },
+    {
+      "id": "pubmed_93975267677a",
+      "title": "Strategies to Promote Cognitive Health in Aging: Recent Evidence and Innovations.",
+      "authors": [
+        "Lauren E Oberlin",
+        "Abhishek Jaywant",
+        "Abigail Wolff",
+        "Faith M Gunning"
+      ],
+      "year": 2022,
+      "abstract": "We review recent work on applications of non-pharmacologic strategies to promote cognitive health in older adulthood and discuss potential network mechanisms, limitations, and considerations for improving intervention uptake and efficacy.",
+      "doi": "10.1007/s11920-022-01348-x",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Current psychiatry reports"
+    },
+    {
+      "id": "pubmed_b2ae3345ab08",
+      "title": "Gamification and Language Learning to Enhance Cognition in Older Adults: A Systematic Literature Review.",
+      "authors": [
+        "Kimberly M W Y Tan"
+      ],
+      "year": 2025,
+      "abstract": "In this systematic review, we explored the literature on both online gamification and language learning in older adults aged 50 and older. Studies describing either digital gamified cognitive training or language learning interventions and include objective outcomes relating to the cognition of the participants were highlighted as suitable to be included as part of the review. In accordance with the established studies, we analyzed the aim and outcomes of the two separate types of interventions, the study design used, the modalities utilized for the respective interventions, as well as the cognitive outcomes obtained. A focus on the Asian context is included to better understand the effects of such interventions on Asian older adults. Mixed findings have been noted in both online gamified and language learning trainings, especially for language learning. However, results lean toward improvements in the cognitive abilities of older adults following gamified interventions, especially gamified cognitive trainings.",
+      "doi": "10.1089/g4h.2024.0025",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Games for health journal"
+    },
+    {
+      "id": "pubmed_f3c9efd2db96",
+      "title": "The role of immersive virtual reality in geriatric rehabilitation.",
+      "authors": [
+        "A Aldardour",
+        "S Alnammaneh"
+      ],
+      "year": 2025,
+      "abstract": "As the global population continues to age, virtual reality (VR) has emerged as a promising tool in geriatric rehabilitation, offering benefits across physical, cognitive, and psychological domains. This narrative review synthesizes the current literature on VR applications in geriatric adult care, encompassing areas such as fall prevention, balance training, gait rehabilitation, cognitive enhancement, and emotional well-being. VR enhances motivation through gamification and provides real-time feedback in safe, controlled environments. This review explores key challenges-including cost, motion sickness, and usability-and highlights emerging opportunities such as telerehabilitation and tailored programs for individuals with dementia. In contrast to previous reviews, this work places a stronger emphasis on psychological aspects, personalized in-home use, and clinical applicability. VR holds transformative potential to improve outcomes and quality of life in aging populations.",
+      "doi": "10.1016/j.rh.2025.100930",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Rehabilitacion"
+    },
+    {
+      "id": "pubmed_e6126e7aac86",
+      "title": "Developing Game-Based Design for eHealth in Practice: 4-Phase Game Design Process.",
+      "authors": [
+        "Frederiek de Vette",
+        "Aurora Ruiz-Rodriguez",
+        "Monique Tabak",
+        "Wendy Oude Nijeweme-d'Hollosy",
+        "Hermie Hermens",
+        "Miriam Vollenbroek-Hutten"
+      ],
+      "year": 2024,
+      "abstract": "Games are increasingly used in eHealth as a strategy for user engagement. There is an enormous diversity of end users and objectives targeted by eHealth. Hence, identifying game content that drives and sustains engagement is challenging. More openness in the game design process and motivational strategies could aid researchers and designers of future game-based apps.",
+      "doi": "10.2196/13723",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "JMIR formative research"
+    },
+    {
+      "id": "pubmed_4e2322b32a41",
+      "title": "Gamified working memory intervention enhances prefrontal neurocognitive plasticity during aging.",
+      "authors": [
+        "Ping Wang",
+        "Zi-Xuan Zhou",
+        "Peng Gao",
+        "Hai-Yan Hou",
+        "Jia-Xin Zhang",
+        "Hui-Jie Li",
+        "Xi-Nian Zuo"
+      ],
+      "year": 2025,
+      "abstract": "Considering the critical role of working memory (WM) in age-related cognitive decline, WM interventions are proposed as an effective approach for promoting healthy aging. However, traditional WM interventions often yield limited results, possibly due to a lack of interest and challenge. In light of the recent prominent trend of gamification, this study developed a challenging gamified WM intervention aimed at improving WM and providing extensive cognitive benefits for older adults, along with entertainment. Seventy-six older adults were randomly assigned to either the WM intervention group or the active control group. All participants underwent twelve 1-hr training sessions spanning 6 weeks. For each participant, cognitive assessments were completed at pretest, posttest, and 6 months after the intervention while structural magnetic resonance imaging (MRI) and resting-state functional MRI scans were conducted before and after intervention. The results revealed significant improvements in WM, inhibitory control, visuospatial processing, and episodic memory among older adults following the intervention. The left frontal pole, located in the rostral prefrontal cortex (rPFC), exhibited increased cortical thickness accompanied by reduced functional homogeneity and weakened connectivity with the left inferior temporal gyrus. Further statistical learning analysis demonstrated a consistent relationship between the changes at the left frontal pole and improved WM performance, suggesting that the rPFC may support WM and play a protective role in brain aging. The findings highlight the broad benefits of the gamified WM intervention on neurocognitive plasticity in the rPFC of older adults, indicating its potential as a promising tool for mitigating neurocognitive decline during the aging process. (PsycInfo Database Record (c) 2025 APA, all rights reserved).",
+      "doi": "10.1037/pag0000895",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Psychology and aging"
+    },
+    {
+      "id": "pubmed_d7b21cf7edaf",
+      "title": "Encouraging the Voluntary Mobilization of Mental Resources by Manipulating Task Design: Explorative Study.",
+      "authors": [
+        "Lina-Estelle Louis",
+        "Saïd Moussaoui",
+        "Sébastien Ravoux",
+        "Isabelle Milleville-Pennel"
+      ],
+      "year": 2025,
+      "abstract": "Cognitive training is increasingly being considered and proposed as a solution for several pathologies, particularly those associated with aging. However, trainees need to be willing to invest enough mental effort to succeed and make progress.",
+      "doi": "10.2196/63491",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "JMIR formative research"
+    },
+    {
+      "id": "pubmed_3c86f999a9a6",
+      "title": "ExerG: adapting an exergame training solution to the needs of older adults using focus group and expert interviews.",
+      "authors": [
+        "Nathalie Ringgenberg",
+        "Sarah Mildner",
+        "Marcia Hapig",
+        "Sarah Hermann",
+        "Katharina Kruszewski",
+        "Anna Lisa Martin-Niedecken",
+        "Katja Rogers",
+        "Alexandra Schättin",
+        "Frank Behrendt",
+        "Sonja Böckler"
+      ],
+      "year": 2022,
+      "abstract": "Exergames are playful technology-based exercise programs. They train physical and cognitive functions to preserve independence in older adults (OAs) with disabilities in daily activities and may reduce their risk of falling. This study gathered in-depth knowledge and understanding of three different user groups' experiences in and relevant needs, worries, preferences, and expectations of technology-based training, to develop an exergame training device for OAs.",
+      "doi": "10.1186/s12984-022-01063-x",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Journal of neuroengineering and rehabilitation"
+    },
+    {
+      "id": "pubmed_c7c051dd09b1",
+      "title": "Feasibility, adherence and usability of an observational digital health study built using Apple's ResearchKit among adults aged 18-84 years.",
+      "authors": [
+        "B Brady",
+        "S Zhou",
+        "D Ashworth",
+        "L Zheng",
+        "R Eramudugolla",
+        "K J Anstey"
+      ],
+      "year": 2025,
+      "abstract": "This study evaluated the Labs Without Walls app and paired Apple Watch devices for remote research among Australian adults aged 18-84.",
+      "doi": "10.3389/fdgth.2025.1520971",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "Frontiers in digital health"
+    },
+    {
+      "id": "pubmed_c4d2a44ba72e",
+      "title": "A Feasibility Study for Implementation \"Health Arcade\": A Study Protocol for Prototype of Multidomain Intervention Based on Gamification Technologies in Acutely Hospitalized Older Patients.",
+      "authors": [
+        "César Cuevas-Lara",
+        "Mikel Izquierdo",
+        "Fabiola Zambom-Ferraresi",
+        "Mikel L Sáez de Asteasu",
+        "Itxaso Marín-Epelde",
+        "Chenhui Chenhuichen",
+        "Fabricio Zambom-Ferraresi",
+        "Robinson Ramírez-Vélez",
+        "Antonio García-Hermoso",
+        "Álvaro Casas-Herrero"
+      ],
+      "year": 2020,
+      "abstract": "The aim of this article is to present the research protocol for a study that will evaluate the feasibility of implementation of Health Arcade prototype multidomain intervention based on physical and cognitive training using gamification technologies at improving care for older people hospitalized with an acute illness. A total of 40 older people will be recruited in a tertiary public hospital at Pamplona, Spain. The intervention duration will be four to nine consecutive days. Additionally, the patients will receive encouragement for maintaining active during hospital stay and for reducing sedentary time. Primary implementation-related outcomes will be the adherence to treatment (i.e., number of games and days completed during the intervention period), reaction or response time, and number of success and failures in each game per day. Secondary implementation-related outcomes will be self-perceived grade of difficulty, satisfaction, enjoyment per game and session, and self-perceived difficulties in handling the prototype hardware. Other health-related outcomes will also be assessed such as functional capacity in activities of daily living, mood status, quality of life, handgrip strength, physical activity levels, and mobility. The current study will provide additional evidence to support the implementation of multidomain interventions designed to target older persons with an acute illness based on friendly technology. The proposed intervention will increase accessibility of in-clinical geriatrics services, improve function, promote recovery of the health, and reduce economic costs.",
+      "doi": "10.3390/ijerph17218058",
+      "source": "pubmed",
+      "citations": null,
+      "journal": "International journal of environmental research and public health"
+    }
+  ]
+}

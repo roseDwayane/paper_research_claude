@@ -1,0 +1,792 @@
+# Research Papers: transfer effects cognitive training physical function elderly
+
+**Session:** 77edc045-d9f5-4fa4-86bf-8ce44cae8cfe
+**Date:** 2026-01-04
+**Total Papers:** 56
+
+---
+
+## 1. Effective multicomponent interventions in comparison to active control and no interventions on physical capacity, cognitive function and instrumental activities of daily living in elderly people with and without mild impaired cognition - A systematic review and network meta-analysis.
+
+- **Authors:** Marina Bruderer-Hofstetter, Anne-Kathrin Rausch-Osthoff, André Meichtry, Thomas Münzer, Karin Niedermann
+- **Year:** 2018
+- **DOI:** 10.1016/j.arr.2018.04.002
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Ageing research reviews
+
+**Abstract:**
+Multicomponent interventions (MCT) combine physical exercises and cognitive training and seem to be most effective in improving cognition in elderly people. However, literature is inconclusive if MCTs are superior to active comparison interventions, if delivery modes matter, and if people can transfer achieved effects to instrumental activities of daily living (IADL). This network meta-analysis aimed to a) identify MCTs that were effective on physical capacity and/or cognitive function and able to transfer these effects into IADL in elderly people with normal cognition (NC) and mild cognitive impairment (MCI); b) provide a rating on the best interventions per outcome; c) evaluate MCTs' mode of delivery. Eligible studies were randomized controlled trials comparing MCTs to active comparison or no treatments. Six studies in participants with MCI (n = 1088) and eleven studies in participants with NC (n = 670) were included. Five effective MCTs that were superior to physical exercises or cognitive training alone in improving physical capacity and/or cognitive function were detected, however none of these MCTs improved IADL. In people with NC MCTs performed separately or simultaneously were effective. However, in people with MCI MCTs performed separately were more effective. A framework needs to be developed to better understand the mediating effects of physical capacity and cognitive function on IADL and to design MCTs that effectively improve IADL.
+
+---
+
+## 2. 2013 ESH/ESC Guidelines for the management of arterial hypertension
+
+- **Authors:** Giuseppe Mancia, Robert Fagard, Krzysztof Narkiewicz, Josep Redón, Alberto Zanchetti et al.
+- **Year:** 2013
+- **DOI:** 10.1093/eurheartj/eht151
+- **Source:** openalex
+- **Citations:** 13622
+- **Journal:** European Heart Journal
+
+**Abstract:**
+The ESH/ESC Guidelines represent the views of the ESH and ESC and were arrived at after careful consideration of the available evidence at the time they were written.Health professionals are encouraged to take them fully into account when exercising their clinical judgement. The guidelines do not, however, override the individual responsibility of health professionals to make appropriate decisions in the circumstances of the individual patients, in consultation with that patient, and where appropriate and necessary the patient’s guardian or carer. It is also the health professional’s responsibility to verify the rules and regulations applicable to drugs and devices at the time of prescription.
+
+---
+
+## 3. A global clinical measure of fitness and frailty in elderly people
+
+- **Authors:** Kenneth Rockwood
+- **Year:** 2005
+- **DOI:** 10.1503/cmaj.050051
+- **Source:** openalex
+- **Citations:** 8222
+- **Journal:** Canadian Medical Association Journal
+
+**Abstract:**
+Frailty is a valid and clinically important construct that is recognizable by physicians. Clinical judgments about frailty can yield useful predictive information.
+
+---
+
+## 4. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure
+
+- **Authors:** Piotr Ponikowski, Adriaan A Voors, Stefan D Anker, Héctor Bueno, John G. F. Cleland et al.
+- **Year:** 2016
+- **DOI:** 10.1093/eurheartj/ehw128
+- **Source:** openalex
+- **Citations:** 11151
+- **Journal:** European Heart Journal
+
+**Abstract:**
+No abstract available.
+
+---
+
+## 5. Combined physical-cognitive training enhances postural performances during daily life tasks in older adults.
+
+- **Authors:** Rabeb Laatar, Hiba Kachouri, Rihab Borji, Haithem Rebai, Sonia Sahli
+- **Year:** 2018
+- **DOI:** 10.1016/j.exger.2017.09.004
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Experimental gerontology
+
+**Abstract:**
+Physical-cognitive interventions seem promising to improve balance and gait performances and prevent falls in the elderly. Although these beneficial effects, it is still not clear whether these physical-cognitive training modalities leads to more general non-specific adaptations that can be transferred to some measures reflecting every day abilities. This randomized controlled trial examined postural (center of pressure oscillations), physical (lower body strength, gait speed, functional mobility, dynamic balance) and cognitive performances (reaction time) and postural performance during daily life tasks (walking while conversing on a phone and maintaining an upright standing posture while buttoning a shirt) in older adults (66.29±3.61years) pre- and post- 6-months physical and physical-cognitive interventions. Results showed that both training modalities improve balance (p<0.001), physical functions (p<0.01) and attention (p<0.001) in older adults. Only simultaneous physical-cognitive training enhances performance in daily life tasks. Three months after the intervention, these improvements were generally maintained for physical functions and attention and were not maintained for the postural performances in daily life task. In conclusion, physical training improves postural balance, mobility, attention and physical functions in older adults. Only simultaneous physical-cognitive training modality enhances performance in some tasks relative to every day abilities. Nonetheless, these gains were lost after 3 months of detraining period suggesting a need for older people to participate regularly in such training for their daily life independence.
+
+---
+
+## 6. Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for mental health science
+
+- **Authors:** Emily A. Holmes, Rory C. O’Connor, V. Hugh Perry, Irene Tracey, Simon Wessely et al.
+- **Year:** 2020
+- **DOI:** 10.1016/s2215-0366(20)30168-1
+- **Source:** openalex
+- **Citations:** 5937
+- **Journal:** The Lancet Psychiatry
+
+**Abstract:**
+No abstract available
+
+---
+
+## 7. Neurocognition of aging in working environments
+
+- **Authors:** Patrick D. Gajewski, Michael Falkenstein
+- **Year:** 2011
+- **DOI:** 10.1007/s12651-011-0090-6
+- **Source:** openalex
+- **Citations:** 20
+- **Journal:** Journal for Labour Market Research
+
+**Abstract:**
+No abstract available
+
+---
+
+## 8. Clinical guidelines for overactive bladder
+
+- **Authors:** Osamu Yamaguchi, Osamu Nishizawa, Masayuki Takeda, Osamu Yokoyama, Yukio Homma et al.
+- **Year:** 2009
+- **DOI:** 10.1111/j.1442-2042.2008.02177.x
+- **Source:** openalex
+- **Citations:** 167
+- **Journal:** International Journal of Urology
+
+**Abstract:**
+To date, it has been considered that overactive bladder (OAB) is a unique disease that only specialists can diagnose, with urodynamic studies required for its diagnosis. However, with the definition of OAB in the standard terminology of the International Continence Society (ICS) being extensively amended in 2002, it is now possible to diagnose OAB on the basis of subjective symptoms and without the complexity of urodynamic studies. Moreover, recent epidemiological research shows that patients with OAB are extremely numerous, and in Japan too, it is estimated that among adults aged 40 years or older, the number of OAB patients is approximately 8.1 million. Thus, OAB is by no means a unique disease, but is rather a condition seen in the everyday clinical setting, and it is expected that not only urologists but also general clinicians will increasingly encounter the disease in the future. Therefore, the Neurogenic Bladder Society has prepared this 'Clinical Guideline for Overactive Bladder'. This Guideline is structured into two sections: 'Basic Information on OAB' and 'Clinical Guideline'. Because OAB is a new disease concept, the first half of the basic information provides a detailed explanation of the reasons for the change in definition, the mechanism of onset of OAB for each cause, the epidemiology of the disease, and its effects on quality of life (QOL). The second half of the treatment guidelines deal with symptom-based diagnosis, diagnosis by exclusion, and treatment methods for OAB, and present a treatment algorithm reviewed by each member of the drafting group preparing this guideline. In symptom-based diagnosis, the characteristics of each of the symptoms that constitute OAB syndrome are described in detail: urgency, frequency, and urge urinary incontinence. Among these symptoms, urgency is the essential symptom required for diagnosing OAB. Urgency is a pathological bladder sensation, and questioning by the physician must proceed on the understanding that it is completely different to the strong desire to void that occurs in normal individuals when urination is deferred as much as possible. Furthermore, the important aspect in the new concept of OAB is that the patient is able to be aware of the specific symptoms of OAB such as urgency. Conversely, a diagnosis of OAB is not made if there are no symptoms, even when the bladder undergoes involuntary contraction. For example, OAB could not be the diagnosis in spinal cord injury patients in situations where symptoms cannot be sensed because the bladder sensory pathway is completely blocked, even in cases of involuntary contraction of the detrusor muscle. We have ranked treatment methods after reviewing clinical research papers (Medline and Cochrane Library) concerned with the treatment of OAB in the past 10 years (see Table 1). As the history of OAB has only just begun in Japan, randomized controlled trials (RCT) in Japanese patients are limited. Furthermore, many excellent treatment methods are not covered by national health insurance. With an eye to future developments, all clinical research papers were subjected to review, notwithstanding the presence or otherwise of insurance coverage. Since drug therapy is presently at the core of treatment for OAB, each was also ranked with a recommendation grade. Moreover, considering that anticholinergic drugs are the mainstay of effective drug therapy for OAB at present, we have expressly included commentary on the treatment of OAB as a complication of benign prostatic hyperplasia. The algorithm for treating OAB was prepared with general practitioners in mind, rather than specialists. The intent in its preparation was to ensure that initial treatment with anticholinergic drugs can be provided as safely as possible. After a series of investigations, treatment guidelines were proposed for patients with residual urine less than 50 mL and normal urine findings. However, if improvement is not evident, the patient should be promptly referred to a specialist. Hence, we wish to emphasize again that the appropriate treatment for OAB will be realized only with close collaboration between general practitioners and specialists. The completion of this guideline would not have been possible without the dedication of the drafting group members who contributed their valuable time to attend numerous meetings. I wish to express my deep appreciation to the members on the drafting group, and it will be a great pleasure if this guideline contributes to illuminating the respective roles of urological specialists and general practitioners and improving the quality of treatment for OAB. In closing, I wish to note that this guideline edited by the Neurogenic Bladder Society has been endorsed by the Japanese Urological Association, and hereby express my appreciation to the members of the Clinical Guidelines Subcommittee (chaired by Dr. Akihiko Okuyama) for their service. Osamu YamaguchiChairmanNeurogenic Bladder Society Overactive bladder (OAB) is defined as 'Having urgency, usually with frequency and nocturia, and with or without urge urinary incontinence'.1 However, other diseases, for example, bladder cancer, cystitis, bladder calculus, and prostate cancer, must be excluded. In other words, OAB is a functional disorder in which urinary urgency is essential, accompanied by symptoms such as frequency, nocturia, and urge urinary incontinence . The diagnosis of OAB is made by confirmation of symptoms and exclusion of other diseases. Urodynamic studies are useful for elucidating the pathological picture of OAB, but are not always necessary for diagnosis or starting treatment.2–4 As the diseases that should be excluded and the methods of exclusion are described elsewhere, the symptoms will be described below. The symptoms are the most important element for the diagnosis of OAB. The symptoms that constitute OAB are urgency, frequency (daytime and nighttime) and urge urinary incontinence. These symptoms are described as follows by the International Continence Society ( Table 2).1 Evaluation Variables. The symptoms to be evaluated are frequency, urgency, and urge urinary incontinence. Frequency is evaluated by the number of micturitions. Urgency is evaluated by its frequency (for example, the daily or weekly frequency of occurrence) or degree (for example, the intensity of the sensation or the length of time that the compelling desire to void can be deferred). Urge urinary incontinence is evaluated by its frequency or degree (for example, the volume of leakage).5–11 Usually, as frequency, urgency, and urge urinary incontinence are seen as a syndrome in OAB, it is desirable that all these symptoms be evaluated.12–14 Evaluation Methods. The methods adopted for evaluating symptoms include evaluation via questioning, responses of patients to uniform questionnaires, and records in bladder diaries. Evaluation via questioning is easy, but has inherent problems that include missed questions, leading by the questioner, misapprehension by the respondent, and difficulty of quantification. It is possible to overcome such drawbacks using questionnaires, but as this form of evaluation involves retrospective recall by the respondent, concerns persist about their accuracy. Completion of a bladder diary is a prospective recording survey, and while it is assumed that it may most accurately ascertain symptoms, it lacks practicality. Since there is a concern that reliability decreases with increasing duration of diary recording, the recommended length is from 3 days to about 1 week.15–18 OAB is a syndrome that is composed of symptoms that include frequency, urgency, and urinary incontinence. Accordingly, rather than evaluating the symptoms individually, it is preferable to make a comprehensive evaluation of multiple symptoms. For the evaluation, questionnaires are easy to use and therefore preferable in the clinical setting. However, there is yet to be an internationally established evaluation method that satisfies these conditions. Research on a questionnaire using Japanese patients with OAB has been undertaken, and the questionnaire shown in Table 3 (Overactive Bladder Symptom Score; OABSS) has been proposed.19 It is possible that it will be modified via the present investigations, but it is recommended that it be used as a symptom questionnaire for OAB in Japan. Additionally, the OABSS has been used for the evaluation of symptoms in patients diagnosed with OAB. In diagnosing OAB, it is not to be used for differentiating other diseases. It is also not for evaluating diseases other than OAB. As a questionnaire to be used in situations such as screening for OAB in the general population that does not comprise OAB patients, for example, a simplified form of the OABSS (Table 4) is recommended. It is assumed to be used for health surveys, in the general citizenry or those undergoing health checks. Moreover, when using such a questionnaire, it is necessary to pay attention to the fact that these questionnaires have high sensitivity but low specificity for OAB. For example, in the event that only frequency is present as a symptom in Table 4, there are probably many situations where the diagnosis is not OAB. The recommended diagnostic criteria for OAB are 'an urgency score for Question 3 of 2 or more, and an OABSS of 3 or more'. This is also equivalent to the criteria for OAB in epidemiological surveys5 and 'the daily urination frequency of eight times or more, and urgency of once a week or more', which is defined as the lower limit of the symptoms that are regarded as pathological in a supplementary analysis.20 Also, in the event that the OABSS is used as the standard for assessing the severity of OAB, it is recommended that a total score of 5 or less be defined as mild, a score of 6–11 as moderate, and 12 or more as severe.19 (Yukio Homma) The main diseases and conditions that should be excluded when diagnosing overactive bladder (OAB) are presented in Table 5. For diagnosis by exclusion, the following should be performed as needed: physical findings, urinalysis, urine cytology, ultrasound examination, cystoscopy, radiography, prostate-specific antigen, and renal function tests. Diseases that should be excluded include those that are life-threatening. Accordingly, if doubts remain about the diagnosis of OAB, or if improvement in symptoms is not seen after starting treatment, it will be necessary to refer the patient to a specialist urologist. If urinary occult blood or hematuria is observed, suspect bladder cancer or bladder calculus. The condition characterized by bladder pain on storage of urine, frequency, and urgency is known as interstitial cystitis (painful bladder syndrome). The pathological pictures of overactive bladder and interstitial cystitis appear to overlap in part, but as interstitial cystitis does not respond to normal treatment and requires specialized treatment, refer the patient to a urologist. To exclude prostate cancer, rectal examination and prostate specific antigen tests are recommended. If pyuria is observed, treat first as a urinary tract infection. If pyuria persists, refer the patient to a urologist. In chronic prostatitis, in addition to discomfort or pain in the perineum, groin, and lower abdomen, diverse symptoms such as urinary frequency or discomfort on urination may be presented. At times other than during acute exacerbation, pyuria and bacteriuria are not observed, but expressed prostatic secretion obtained by massaging the prostate and post-massage urine contain leukocytes and bacteria. It is necessary to rule out the presence of urinary retention by palpation or ultrasound examination of the lower abdomen. Psychogenic urinary frequency is characterized by the absence of nocturia. (Hidehiro Kakizaki) Behavioral therapy for OAB can include lifestyle guidance, bladder training, physical therapy, and toileting assistance. Physical therapy includes the methods of pelvic floor exercises and biofeedback therapy. A scientific basis for the efficacy of behavioral therapy has been demonstrated, it is minimally invasive and with no adverse reactions, and combination therapy with other forms of treatment is also possible. Hence, it is one of the modes of therapy that should be considered as the first-line choice for initial treatment of OAB. A uniform consensus on the superiority of combined behavioral therapy and drug therapy over monotherapy is yet to be achieved, but it is the recommended treatment approach in the clinical setting. Nevertheless, several issues remain to be addressed, for the following reasons: long-term results are uncertain; the protocols for specific procedures in each treatment method are yet to be standardized; it is not included in insurance coverage and there is no economic support; and the treatment devices are not approved by the Ministry of Health, Labour and Welfare. There are numerous reports on the relationship between micturition and lifestyle factors, and guidance on precautions to be taken in everyday life for patients with micturition disorder is an important concern for clinicians. Nevertheless, there are few reports on the relationship between changes in lifestyle factors and improvement in micturition symptoms, and the evidence for the therapeutic significance of lifestyle guidance is inadequate. It is possible to anticipate improvement in frequency and urge urinary incontinence in OAB by limiting excessive water intake21 or caffeine consumption.22 Also, it is easy to prevent urge urinary incontinence through changes in toilet habits, such as going to the toilet at an early stage, and checking the locations of toilets before going out. In the elderly, useful guidance in everyday life includes establishing an appropriate toilet environment in the house by designing living spaces in close proximity to the toilet and the use of portable toilets or urinals, or skillful clothing modifications. Bladder training is a method for increasing bladder capacity through lengthening of the micturition interval, little by little. It is the representative type of behavioral therapy for OAB, and a scientific basis for its efficacy has been demonstrated. Specifically, after explaining the mechanisms of voiding function, and urinary incontinence and continence, a micturition plan is developed, and slowly over 15–60 min intervals starting from a short length of time, the micturition interval is lengthened, and training proceeds so that finally, a micturition interval of 2–3 h is achieved. As regards the results of bladder training, in urge or mixed urinary incontinence, an improvement rate of 73–90% in evaluations of subjective symptoms, and an improvement rate of 12–16% in evaluations based on bladder diaries have been reported, and randomized studies have shown the superiority of bladder training to no therapy,23,24 and equivalence to pelvic floor exercises,25 and drug therapy.26,27 The mechanism of action of bladder training is not immediately obvious, with various hypotheses suggested: improvement in the inhibitory function of bladder contraction via the cerebral cortex, improvement in the stimulatory function of urethral contraction during bladder filling via the cerebral cortex, central modulation of afferent sensory impulses, and changes in micturition behavior through patient understanding of lower urinary tract function and environmental factors involved in urinary incontinence.24,25 Pelvic Floor Exercises. The mechanism underlying the efficacy of pelvic floor exercises for OAB is unknown, but it has been shown experimentally and clinically that the detrusor contraction reflex is inhibited by intentional contraction of the pelvic floor muscles. The efficacy of pelvic floor exercises in women with mixed or urge urinary incontinence has been demonstrated in randomized studies,28–30 but there is also a report noting that combined therapy with bladder training is appropriate for urge urinary incontinence in women.31 Furthermore, investigations into the efficacy of pelvic floor exercises for urgency or frequency are inadequate, and there is no evidence in men. Biofeedback Therapy. Biofeedback therapy is a process in which patients are made aware by various means of physiological phenomena that are usually difficult to recognize, and in which this awareness is used in treatment. The foundation of biofeedback therapy for urinary incontinence is pelvic floor exercises, a therapeutic method aimed at greater efficiency of training in which the patient increases their awareness of contractions of the pelvic floor muscles and the degree of contraction. The biofeedback in pelvic floor exercises can be provided via devices such as the vaginal cone, vaginal manometer, or electromyography. Randomized studies of the efficacy of biofeedback therapy have demonstrated its superiority versus no therapy and equivalence to drug therapy,28,31 but the methods and protocols differ according to the study. Hence, a fixed consensus is yet to be obtained on the comparison between pelvic floor exercises alone and the combination of biofeedback with pelvic floor exercises.32 Toileting assistance is an important method of managing micturition in the elderly, but frequently goes unrecognized by caregivers or nurses on the spot, and it is necessary to provide specialist guidance after ascertaining the patient's micturition conditions and environmental factors. Toileting assistance methods for elderly patients with OAB include timed toileting guidance and patterned toileting guidance. By use of bladder diaries to ascertain the patient's micturition intervals and voiding pattern, the caregiver or nurse can provide toileting guidance to prompt the patient to go to the toilet at fixed times or to match a voiding pattern, before urinary incontinence occurs. The usefulness of this approach has been reported in a small number of randomized studies.33 (Momokazu Gotoh) For behavioral therapy, 58 research papers were identified, evaluation sheets were prepared for 29 papers, and 13 papers were accepted. Drug therapy forms the basis of treatment for overactive bladder (OAB). There are some reports claiming that the combination of drug therapy plus behavioral therapy is more effective. The drugs for which efficacy and safety have been investigated are the anticholinergic agents, which at present are most commonly used for the treatment of OAB. However, when using anticholinergic drugs, it is necessary to adequately consider adverse reactions due to blockade of the systemic muscarine receptors. The development of new anticholinergic drugs and of drugs with new mechanisms of action is also actively proceeding, and the future promises to see the development of therapeutic drugs for OAB with fewer adverse reactions. In the following, we describe the individual drugs. Oxybutynin (Recommendation Grade: A). In addition to its antimuscarinic activity, oxybutynin has a direct relaxing effect and paralyzing effect on smooth muscle. It is rapidly absorbed from the gastrointestinal tract, then metabolized in the liver into N-desethyloxybutynin. This metabolite has the same pharmacological effects as oxybutynin itself, and this is believed to be related to its clinical benefits and adverse reactions. In Japan, the usual daily dose is 6–9 mg, in two or three divided doses. Oxybutynin has been extensively evaluated in clinical research, in which its efficacy has been well demonstrated. However, as the incidence of adverse reactions associated with its antimuscarinic activity is higher than that of other anticholinergic drugs, it is recommended that treatment is started from a low dose and titrated gradually to determine the optimal dose. Oxybutynin can pass through the blood-brain barrier, thereby potentially eliciting central nervous system (CNS)-associated adverse reactions (cognitive impairment, etc.), and caution is especially required in elderly patients. For patients undergoing intermittent catheterization, one method of administration considered to be effective is intravesical infusion (not covered by health insurance), and it is suggested that the adverse reactions are fewer than those with oral administration. Various formulations have been  to  adverse reactions. In Japan, development studies of an    are  in  and clinical studies of a  preparation are also   to the  results of  randomized controlled studies in which an   of oxybutynin   form  used in  was evaluated in  patients with frequency or urinary incontinence, the   in urinary incontinence was  and the   in the number of    h was  and the  subjective improvement rate reported by patients  was  However, adverse reactions were reported by a   of  A     that oxybutynin      in OAB  As   oxybutynin can  the blood-brain  and has the  to   adverse reactions (cognitive impairment,  so  caution is especially required in administration to elderly  In an  in which the effects on    were  in elderly patients with urinary incontinence, no  changes were  Because of the high incidence of adverse reactions,  such as the following are recommended when using   from a low  then if no  is   the dose gradually to determine the optimal  As the incidence of adverse reactions is high for   a   form of oxybutynin has been   to be approved in  In this     the drug to be  slowly over a   which is metabolized slowly in the  thereby    changes in the blood  of oxybutynin or its  In a   in which  patients with  OAB  the  or  forms of  the number of urinary incontinence   week  from  to  for the  form    and from  to  for the  form     that there was no  between the two formulations with  to   the adverse reactions, the  of   for the  and  forms were not    and   but  fewer patients in the  group reported    In a     oxybutynin   with    mg,   the improvement effect of  oxybutynin on  the number of urinary incontinence  and frequency of micturition was  and there was no  between the two  with  to the incidence of   or other adverse   oxybutynin has been used not only for adults but also for  most frequently in cases of  detrusor  in which  is   not a randomized controlled  the incidence of adverse reactions was  bladder capacity was  and improvement of clinical symptoms was greater than that reported in oral  However, adverse reactions were   after intravesical  and some patients are  to  treatment because of the complexity of the method of administration. Additionally, oxybutynin is also being  in other  The incidence of adverse reactions for a  form  to be approved in  is reported to be lower than that for the  oral  As regards oxybutynin  by   a report from the   that improvement in OAB symptoms is equivalent to that obtained with an oral  and that the incidence of the adverse    is   In a   versus   there was no  between the two  with  to improvement in OAB symptoms, but the incidence of   was  lower in the    However, a  high incidence of  reactions at the  of administration was  in the     (Recommendation Grade: A).  is a drug with antimuscarinic activity and       about its  and the effects of its   clinical studies have shown that  is useful for OAB symptoms, and that adverse reactions are also  In Japan,  is most  used to treat frequency and urinary incontinence, and its safety has been  The daily dose  in Japan is    one or two divided   randomized studies  its efficacy and safety at this dose with those of  and other drugs have been   to the  results of  randomized studies in  patients with detrusor  the improvement rate in the frequency of micturition was  and the  in bladder capacity was  In a   that   spinal  patients with  detrusor  bladder function tests  that   mg,    the  bladder capacity by a    and   bladder  in comparison with a   residual urine was   from 50 mL to  mL in the    improvement was reported by  of patients   a  higher  than that reported by  of patients  a  Among adverse reactions, the incidence of   was    and that of eye  disorder was    Furthermore, in a   in which  patients with urgency or urge urinary incontinence    mg,   oxybutynin  mg,   or  there were no  between  and oxybutynin for usefulness in bladder function  but the incidence and severity of   were  lower in the    to the results of a   of effects on   and the efficacy of   mg,   in  patients with urgency, or urge or mixed urinary  improvement in the  group was   with that in the  group, with the daily frequency of micturition improving from  to  and the daily frequency of urinary incontinence improving from  to  However, there were no  changes in  group with  to    or   findings.  (Recommendation Grade: A).  was the  drug approved for the treatment of OAB, and is the most  used drug for this  in the  It has no  for    is well  to and has a high   for the  and as  with the   is   for the  These  have been obtained in   and  In      is a drug for which there is   evidence for efficacy and safety in OAB patients,  the elderly and patients with  OAB, improving OAB symptoms as a  of  as well as  The incidence of  and  due to adverse  in a    was  to a   the treatment  rate in a long-term  was a high  and it was  that the incidence of adverse reactions does not  in long-term administration.  has  low    that  to   will be  and the  of effects of this drug on the  has been  in the clinical setting.  the  it is considered that  is a drug for which a high treatment  rate can be  in the   In a     as a   in Japan and   in which  patients with  OAB were  to    mg, once  oxybutynin  mg, three times  or a  the efficacy of  was  to be  to that of     the frequency of urinary incontinence  with the  with a   of  in the frequency of urinary incontinence for  Furthermore,  with the     the frequency of  volume    and  as  by     The incidence of adverse reactions with oxybutynin was  higher than that with  or  and in  the frequency and severity of   with oxybutynin were  higher than those with  Additionally, in a long-term  of safety in administration of    mg, once  for 12  in  Japanese OAB patients who  this  there was no  for the incidence of adverse  to  in long-term   patients  treatment for 12  with a high treatment  rate of  As regards the effects of   on  of OAB patients, in a report
+
+---
+
+## 9. Artificial intelligence in healthcare: past, present and future
+
+- **Authors:** Fei Jiang, Yong Jiang, Hui Zhi, Yi Dong, Hao Li et al.
+- **Year:** 2017
+- **DOI:** 10.1136/svn-2017-000101
+- **Source:** openalex
+- **Citations:** 4116
+- **Journal:** Stroke and Vascular Neurology
+
+**Abstract:**
+Artificial intelligence (AI) aims to mimic human cognitive functions. It is bringing a paradigm shift to healthcare, powered by increasing availability of healthcare data and rapid progress of analytics techniques. We survey the current status of AI applications in healthcare and discuss its future. AI can be applied to various types of healthcare data (structured and unstructured). Popular AI techniques include machine learning methods for structured data, such as the classical support vector machine and neural network, and the modern deep learning, as well as natural language processing for unstructured data. Major disease areas that use AI tools include cancer, neurology and cardiology. We then review in more details the AI applications in stroke, in the three major areas of early detection and diagnosis, treatment, as well as outcome prediction and prognosis evaluation. We conclude with discussion about pioneer AI systems, such as IBM Watson, and hurdles for real-life deployment of AI.
+
+---
+
+## 10. A Multicomponent Intervention to Prevent Delirium in Hospitalized Older Patients
+
+- **Authors:** Sharon K. Inouye, Sidney T. Bogardus, Peter Charpentier, Linda Leo‐Summers, Denise Acampora et al.
+- **Year:** 1999
+- **DOI:** 10.1056/nejm199903043400901
+- **Source:** openalex
+- **Citations:** 2838
+- **Journal:** New England Journal of Medicine
+
+**Abstract:**
+The risk-factor intervention strategy that we studied resulted in significant reductions in the number and duration of episodes of delirium in hospitalized older patients. The intervention had no significant effect on the severity of delirium or on recurrence rates; this finding suggests that primary prevention of delirium is probably the most effective treatment strategy.
+
+---
+
+## 11. SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials
+
+- **Authors:** A.-W. Chan, Jennifer Tetzlaff, Peter C Gøtzsche, Douglas G. Altman, H Mann et al.
+- **Year:** 2013
+- **DOI:** 10.1136/bmj.e7586
+- **Source:** openalex
+- **Citations:** 6444
+- **Journal:** BMJ
+
+**Abstract:**
+High quality protocols facilitate proper conduct, reporting, and external review of clinical trials. However, the completeness of trial protocols is often inadequate. To help improve the content and quality of protocols, an international group of stakeholders developed the SPIRIT 2013 Statement (Standard Protocol Items: Recommendations for Interventional Trials). The SPIRIT Statement provides guidance in the form of a checklist of recommended items to include in a clinical trial protocol. This SPIRIT 2013 Explanation and Elaboration paper provides important information to promote full understanding of the checklist recommendations. For each checklist item, we provide a rationale and detailed description; a model example from an actual protocol; and relevant references supporting its importance. We strongly recommend that this explanatory paper be used in conjunction with the SPIRIT Statement. A website of resources is also available (www.spirit-statement.org). The SPIRIT 2013 Explanation and Elaboration paper, together with the Statement, should help with the drafting of trial protocols. Complete documentation of key trial elements can facilitate transparency and protocol review for the benefit of all stakeholders.
+
+---
+
+## 12. Summary of the Updated American Geriatrics Society/British Geriatrics Society Clinical Practice Guideline for Prevention of Falls in Older Persons
+
+- **Authors:** Panel on Prevention of Falls in Older Persons, American Geriatrics Society and British Geriatrics Society, Panel on Prevention of Falls in Older Persons, American Geriatrics Society and British Geriatrics Society
+- **Year:** 2011
+- **DOI:** 10.1111/j.1532-5415.2010.03234.x
+- **Source:** openalex
+- **Citations:** 1789
+- **Journal:** Journal of the American Geriatrics Society
+
+**Abstract:**
+The following article is a summary of the American Geriatrics Society/British Geriatrics Society Clinical Practice Guideline for Prevention of Falls in Older Persons (2010). This article provides additional discussion of the guideline process and the differences between the current guideline and the 2001 version and includes the guidelines' recommendations, algorithm, and acknowledgments. The complete guideline is published on the American Geriatrics Society's Web site ( http://www.americangeriatrics.org/health_care_professionals/clinical_practice/clinical_guidelines_recommendations/2010/ ).
+
+---
+
+## 13. Traumatic brain injury: integrated approaches to improve prevention, clinical care, and research
+
+- **Authors:** Andrew I.R. Maas, David Menon, P. David Adelson, Nada Anđelić, M. J. Bell et al.
+- **Year:** 2017
+- **DOI:** 10.1016/s1474-4422(17)30371-x
+- **Source:** openalex
+- **Citations:** 2337
+- **Journal:** The Lancet Neurology
+
+**Abstract:**
+A concerted effort to tackle the global health problem posed by traumatic brain injury (TBI) is long overdue. TBI is a public health challenge of vast, but insufficiently recognised, proportions. Worldwide, more than 50 million people have a TBI each year, and it is estimated that about half the world's population will have one or more TBIs over their lifetime. TBI is the leading cause of mortality in young adults and a major cause of death and disability across all ages in all countries, with a disproportionate burden of disability and death occurring in low-income and middle-income countries (LMICs). It has been estimated that TBI costs the global economy approximately $US400 billion annually. Deficiencies in prevention, care, and research urgently need to be addressed to reduce the huge burden and societal costs of TBI. This Commission highlights priorities and provides expert recommendations for all stakeholders—policy makers, funders, health-care professionals, researchers, and patient representatives—on clinical and research strategies to reduce this growing public health problem and improve the lives of people with TBI.
+
+---
+
+## 14. A survey of socially interactive robots
+
+- **Authors:** Terrence Fong, Illah Nourbakhsh, Kerstin Dautenhahn
+- **Year:** 2003
+- **DOI:** 10.1016/s0921-8890(02)00372-x
+- **Source:** openalex
+- **Citations:** 3023
+- **Journal:** Robotics and Autonomous Systems
+
+**Abstract:**
+No abstract available
+
+---
+
+## 15. The disablement process
+
+- **Authors:** Lois M. Verbrugge, Alan M. Jette
+- **Year:** 1994
+- **DOI:** 10.1016/0277-9536(94)90294-1
+- **Source:** openalex
+- **Citations:** 3144
+- **Journal:** Social Science & Medicine
+
+**Abstract:**
+No abstract available
+
+---
+
+## 16. Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy
+
+- **Authors:** Yogesh K. Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coombs et al.
+- **Year:** 2019
+- **DOI:** 10.1016/j.ijinfomgt.2019.08.002
+- **Source:** openalex
+- **Citations:** 3467
+- **Journal:** International Journal of Information Management
+
+**Abstract:**
+No abstract available
+
+---
+
+## 17. Practice parameter: Management of dementia (an evidence-based review) [RETIRED]
+
+- **Authors:** Rachelle S. Doody, J E Stevens, C. Beck, Richard Dubinsky, Jeffrey Kaye et al.
+- **Year:** 2001
+- **DOI:** 10.1212/wnl.56.9.1154
+- **Source:** openalex
+- **Citations:** 1721
+- **Journal:** Neurology
+
+**Abstract:**
+Cholinesterase inhibitors benefit patients with AD (Standard), although the average benefit appears small; vitamin E likely delays the time to clinical worsening (Guideline); selegiline, other antioxidants, anti-inflammatories, and estrogen require further study. Antipsychotics are effective for agitation or psychosis in patients with dementia where environmental manipulation fails (Standard), and antidepressants are effective in depressed patients with dementia (Guideline). Educational programs should be offered to family caregivers to improve caregiver satisfaction and to delay the time to nursing home placement (Guideline). Staff of long-term care facilities should also be educated about AD to minimize the unnecessary use of antipsychotic medications (Guideline). Behavior modification, scheduled toileting, and prompted voiding reduce urinary incontinence (Standard). Functional independence can be increased by graded assistance, skills practice, and positive reinforcement (Guideline).
+
+---
+
+## 18. Guidelines for the Management of Aneurysmal Subarachnoid Hemorrhage
+
+- **Authors:** E. Sander Connolly, Alejandro A. Rabinstein, J. Ricardo Carhuapoma, Colin P. Derdeyn, Jacques E. Dion et al.
+- **Year:** 2012
+- **DOI:** 10.1161/str.0b013e3182587839
+- **Source:** openalex
+- **Citations:** 3401
+- **Journal:** Stroke
+
+**Abstract:**
+Purpose— The aim of this guideline is to present current and comprehensive recommendations for the diagnosis and treatment of aneurysmal subarachnoid hemorrhage (aSAH). Methods— A formal literature search of MEDLINE (November 1, 2006, through May 1, 2010) was performed. Data were synthesized with the use of evidence tables. Writing group members met by teleconference to discuss data-derived recommendations. The American Heart Association Stroke Council's Levels of Evidence grading algorithm was used to grade each recommendation. The guideline draft was reviewed by 7 expert peer reviewers and by the members of the Stroke Council Leadership and Manuscript Oversight Committees. It is intended that this guideline be fully updated every 3 years. Results— Evidence-based guidelines are presented for the care of patients presenting with aSAH. The focus of the guideline was subdivided into incidence, risk factors, prevention, natural history and outcome, diagnosis, prevention of rebleeding, surgical and endovascular repair of ruptured aneurysms, systems of care, anesthetic management during repair, management of vasospasm and delayed cerebral ischemia, management of hydrocephalus, management of seizures, and management of medical complications. Conclusions— aSAH is a serious medical condition in which outcome can be dramatically impacted by early, aggressive, expert care. The guidelines offer a framework for goal-directed treatment of the patient with aSAH.
+
+---
+
+## 19. Long COVID: major findings, mechanisms and recommendations
+
+- **Authors:** Hannah Davis, Lisa McCorkell, Julia Moore Vogel, Eric J. Topol
+- **Year:** 2023
+- **DOI:** 10.1038/s41579-022-00846-2
+- **Source:** openalex
+- **Citations:** 3656
+- **Journal:** Nature Reviews Microbiology
+
+**Abstract:**
+No abstract available
+
+---
+
+## 20. Brave new world: service robots in the frontline
+
+- **Authors:** Jochen Wirtz, Paul G. Patterson, Werner H. Kunz, Thorsten Gruber, Vinh Nhat Lu et al.
+- **Year:** 2018
+- **DOI:** 10.1108/josm-04-2018-0119
+- **Source:** openalex
+- **Citations:** 1880
+- **Journal:** Journal of service management
+
+**Abstract:**
+Purpose The service sector is at an inflection point with regard to productivity gains and service industrialization similar to the industrial revolution in manufacturing that started in the eighteenth century. Robotics in combination with rapidly improving technologies like artificial intelligence (AI), mobile, cloud, big data and biometrics will bring opportunities for a wide range of innovations that have the potential to dramatically change service industries. The purpose of this paper is to explore the potential role service robots will play in the future and to advance a research agenda for service researchers. Design/methodology/approach This paper uses a conceptual approach that is rooted in the service, robotics and AI literature. Findings The contribution of this paper is threefold. First, it provides a definition of service robots, describes their key attributes, contrasts their features and capabilities with those of frontline employees, and provides an understanding for which types of service tasks robots will dominate and where humans will dominate. Second, this paper examines consumer perceptions, beliefs and behaviors as related to service robots, and advances the service robot acceptance model. Third, it provides an overview of the ethical questions surrounding robot-delivered services at the individual, market and societal level. Practical implications This paper helps service organizations and their management, service robot innovators, programmers and developers, and policymakers better understand the implications of a ubiquitous deployment of service robots. Originality/value This is the first conceptual paper that systematically examines key dimensions of robot-delivered frontline service and explores how these will differ in the future.
+
+---
+
+## 21. Guidelines on the management of valvular heart disease (version 2012)
+
+- **Authors:** Alec Vahanian, Ottavio Alfieri, Felicita Andreotti, Manuel J. Antunes, Gonzalo Barón‐Esquivias et al.
+- **Year:** 2012
+- **DOI:** 10.1093/eurheartj/ehs109
+- **Source:** openalex
+- **Citations:** 3557
+- **Journal:** European Heart Journal
+
+**Abstract:**
+linea guida per la pratica clinica
+
+---
+
+## 22. The American Heart Association Stroke Outcome Classification
+
+- **Authors:** Panel Margaret Kelly-Hayes, James T. Robertson, Joseph P. Broderick, Pamela W. Duncan, Linda A. Hershey et al.
+- **Year:** 1998
+- **DOI:** 10.1161/01.str.29.6.1274
+- **Source:** openalex
+- **Citations:** 207
+- **Journal:** Stroke
+
+**Abstract:**
+HomeStrokeVol. 29, No. 6The American Heart Association Stroke Outcome Classification Free AccessOtherPDF/EPUBAboutView PDFView EPUBSections ToolsAdd to favoritesDownload citationsTrack citationsPermissions ShareShare onFacebookTwitterLinked InMendeleyReddit Jump toFree AccessOtherPDF/EPUBThe American Heart Association Stroke Outcome Classification Panel Margaret Kelly-Hayes, James T. Robertson, Joseph P. Broderick, Pamela W. Duncan, Linda A. Hershey, Elliot J. Roth, William H. Thies and Catherine A. Trombly Panel Margaret Kelly-HayesPanel Margaret Kelly-Hayes , James T. RobertsonJames T. Robertson , Joseph P. BroderickJoseph P. Broderick , Pamela W. DuncanPamela W. Duncan , Linda A. HersheyLinda A. Hershey , Elliot J. RothElliot J. Roth , William H. ThiesWilliam H. Thies and Catherine A. TromblyCatherine A. Trombly Originally published1 Jun 1998https://doi.org/10.1161/01.STR.29.6.1274Stroke. 1998;29:1274–1280Stroke remains one of the major public health problems in the United States today, with approximately 500 000 new or recurrent cases occurring each year.1 About 4 000 000 persons alive today have survived a stroke and have some neurological deficits. Although the magnitude of healthcare resources used to treat and rehabilitate stroke survivors is considerable, to date a standardized, comprehensive classification system to document the resultant impairments and disability has not been developed.Successful management of any disabling disease, including stroke, should benefit from the use of a classification system to judge the impact of treatment, particularly emerging therapies. Participants in the Methodologic Issues in Stroke Outcome Symposium2 determined that the complex nature of stroke recovery demands clarification of its natural history and classification of the variable patterns of functional recovery. For stroke survivors to receive the best care, a comprehensive stroke outcome classification system is needed to direct appropriate therapeutic interventions.3 Building on the work and recommendations of the Stroke Outcome Symposium, the American Heart Association Classification of Stroke Outcome Task Force has worked to develop a valid and reliable global classification system that accurately summarizes the neurological impairments, disabilities, and handicaps that occur after stroke.The development of a stroke outcome classification system is predicated on the belief that neurological deficits often lead to permanent impairments, disabilities, and compromised quality of life.456 Although a person's ability to complete daily functional tasks is thought to be largely dependent on and often limited by the type and degree of impairment, additional factors are often relevant in the ultimate determination of functional outcome.789 Thus, a classification of stroke outcome should include the broad range of disabilities and impairments as well as the relationship of disability and impairment to independent function.It is important to underscore that impairment alone does not define level of disability. In a study of stroke survivors10 it was determined that although a disability is most directly influenced by impairments, current stroke scales that measure impairments only partially explained the level of disability, handicap, or quality of life for those surviving at least 6 months. Some persons adapt well to many and/or severe impairments caused by stroke. Others with only minimal neurological impairments can be severely disabled. Many factors determine function, including the influence of poststroke rehabilitation training and the physical and social environments.Approach to Stroke AssessmentThe schema for the stroke outcome classification score presented here is conceptually similar to the New York Heart Association functional and therapeutic classification of patients with diseases of the heart framework.11 However, unlike heart disease, in which the primary limitation is impairment of physical activity due to chest pain, shortness of breath, and fatigue, stroke impairs many critical neurological functions, resulting in a greater number and broader range of physical and social disabilities. The AHA Stroke Outcome Classification (AHA.SOC) score (Figure) classifies the severity and extent of neurological impairments that are the basis for disability. The classification also identifies the level of independence of stroke patients according to basic and more complex activities of daily living both at home and in the community. The classification score is meant to describe the limitations resulting from the current stroke. It is not an evaluation of disabilities caused by other neurological events. Furthermore, it is a summary score. The task force recommends that clinicians support their rating decisions with standardized assessment instruments whenever possible.Components of the AHA Stroke Outcome Classification ScoreClassification of Neurological ImpairmentsThe first area of assessment in the AHA.SOC score is the evaluation of neurological impairment. A complete clinical examination is the basis for documenting the major domains of neurological impairment.12 In this classification schema the number of affected domains is recorded as well as severity of impairments.Potentially affected neurological domains are Motor: Motor impairments are the most prevalent of all deficits seen after stroke, usually with involvement of the face, arm, and leg, alone or in various combinations. Motor functions assessed in the AHA.SOC include cranial nerve function (including speech and swallowing), muscle power and tone, reflexes, balance, gait, coordination, and apraxia.Sensory: Sensory deficits range from loss of primary sensations to more complex loss of perception. Patients may describe numbness, tingling, or altered sensitivity. The more complex sensory losses include astereognosis, agraphia, and extinction to double simultaneous stimuli.Vision: Stroke can cause monocular visual loss, homonymous hemianopia, or cortical blindness.Language: Dysphasia may be exhibited by disturbances in comprehension, naming, repetition, fluency, reading, or writing.Cognition: Stroke can cause impairments in memory, attention, orientation, calculation abilities, and construction. It is important to assess ability to learn and retain new information in the cognitive evaluation.Affect: Depression is the most common affective disturbance seen after stroke. It tends to be observed more often in the months after stroke than during the acute event. Symptoms include loss of energy, lack of interests, loss of appetite, and insomnia.13The domains of stroke impairments are documented both in the number and severity of the neurological deficits observed. When >1 domain is affected, severity is defined by the most impaired domain. The categories for the number of domains involved after stroke are Level 0, no domains impaired; Level 1, 1 domain impaired; Level 2, 2 domains impaired; and Level 3, >2 domains impaired. For stroke severity, impairment is classified as being either Level A, minimal or no neurological deficit due to stroke in the above domains; Level B, mild/moderate deficit due to stroke; or Level C, severe deficit due to stroke.The neurological examination is the basis for determining neurological impairments in the AHA.SOC score. However, the task force recommends that clinicians support their rating decisions by using standardized assessment measures whenever possible. The Appendix describes several available, well-documented assessment instruments that have been tested in stroke populations. This listing is suggestive and not all-inclusive of other available measures.Neurological Impairment ScalesThe National Institutes of Health Stroke Scale (NIHSS)14 and the Canadian Neurological Scale15 evaluate many of the domains of neurological deficits, including motor, sensory, and visual impairments. In a study comparing the usefulness of the baseline NIHSS, the Canadian Neurological Scale, the Middle Cerebral Artery Neurological Score, and Guy's Prognostic Score, the NIHSS was the best predictor of outcome at 3 months (alive at home, alive in care, or deceased).16 The NIHSS is reproducible, easy, and quick to perform (10 minutes) and correlates with infarct volume and functional outcome 3 months after stroke.Following is an example of the use of a standardized assessment, such as the NIHSS, to determine the neurological impairment-severity part of the score. To translate the NIHSS scores into the AHA.SOC, it is necessary to collapse the NIHSS scores. For example, patients with a motor deficit and an NIHSS score of 4 in 1 limb would receive an impairment rating of C=severe. Patients with any detectable weakness in an arm or a leg (NIHSS score 1 to 3) would receive an impairment rating of B=mild/moderate. Patients with no detectable weakness (NIHSS score 0) would receive a rating of A=no impairment. Patients with a sensory deficit and an NIHSS score of 2 would receive an impairment rating of C=severe. Patients with any detectable sensory loss (NIHSS score 1) would receive an impairment rating of B=mild/moderate. Patients without sensory loss would receive a rating of A=no impairment. Patients with severe aphasia or who are mute (NIHSS aphasia score 3) would receive an impairment rating of C=severe. Patients with mild or moderate aphasia (NIHSS aphasia score 1 or 2) would receive an impairment rating of B=mild/moderate. Patients without aphasia would receive a rating of A=no impairment. Visual deficit can be collapsed similarly (NIHSS visual score 2=C, severe impairment; NIHSS visual score 1=B, mild/moderate impairment; NIHSS visual score 0=A, no impairment). If the patient's NIHSS scores are motor=2 (B), sensory=2 (C), aphasia=0 (A), and visual=1 (B), the AHA.SOC severity score is C.Cognitive ScalesAbout 15% to 25% of stroke patients develop significant cognitive impairment after the acute ischemic event.1718 To screen for the presence of cognitive changes, the task force recommends the Mini-Mental State Examination (MMSE).19 The MMSE has been widely used to screen for cognitive dysfunction in the stroke population. It is an easily administered 30-item questionnaire that assesses orientation, memory, attention, language, and construction functions. Like other cognitive measures that include tests of arithmetic and language, MMSE scores are highly correlated with educational level.2021 The Neurobehavioral Cognitive Status Examination (NCSE)22 is another method for assessing severity of dementia. The NCSE measures severity of impairment in multiple domains, including consciousness, orientation, memory, language, and reasoning.Language ScalesApproximately 30% of stroke survivors have some language dysfunction.12 Speech and language disorders may interfere with a person's ability to return to a functional independent life. Accurate assessment of the underlying deficits is essential for treatment. Language impairments can best be documented by the use of the American Speech-Language-Hearing Association Functional Assessment of Communication Skills for Adults.23 This instrument measures adequacy, appropriateness, and promptness of verbal responses. Some measures of language function, such as fluency, naming ability, and comprehension, are also assessed in the NIHSS. Other reliable language-assessment instruments are available, including the Boston Diagnostic Aphasia Examination.24Depression ScalesDepression, although common, is perhaps the least-treated sequela of stroke. The prevalence of depression after stroke has been estimated to range from 11% to 68%, a third of which is classified as major depression.132526 Depression can result either from the direct biological effect of brain infarction, such as that associated with left anterior cortex and basal ganglia lesions,13 or a reaction to the significant losses associated with the stroke. Symptoms of depression can be manifested in cognitive deficits, including difficulty with orientation, memory, language, and distractibility. It is sometimes difficult to distinguish depression from dementia because they share similar symptoms, including disorientation, memory loss, and distractibility. Two assessment scales that reliably screen for symptoms of depression in stroke populations are the CES-D scale27 and the Geriatric Depression Scale.28Classification of Functional Disabilities and HandicapThe second major area of assessment in determining the stroke outcome classification score is the evaluation of function in terms of resultant disability. Disability is defined as "any restriction or lack of ability to perform an activity in a manner or within the range considered normal for a human being."4 The basic self-care tasks are feeding; grooming; dressing; bathing; toileting, including sphincter control; and mobility, including transferring from place to place. These are called basic activities of daily living(BADL). Independence in BADL could enable the stroke patient to live at home with help from family or community providers for meals and other household tasks as needed. More complex activities of daily living are called instrumental activities of daily living(IADL). These tasks are performed to maintain independence in the home and community and include shopping, using transportation, telephoning, preparing meals, handling finances, and maintaining a household. Independence in these activities enables the stroke patient to be discharged to home without being dependent on others. Other instrumental activities of daily living that affect quality of life are work skills, religious activities, and leisure-time and recreational activities (see Appendix).Basic Activities of Daily Living ScalesTo determine the extent of disability after stroke, self-care activities and ability to live independently are assessed. The Barthel Index is a measure of severity of disability and the most frequently used stroke outcome measure. It has been repeatedly shown to be a reliable and valid measure of BADL.293031323334 A limitation is that it does not capture significant losses in higher levels of physical functions or activities that are necessary for independence in the home and community. It is responsive to change but has definite ceiling effects in persons with mild stroke.3435The Functional Independence Measure (FIM)™ is another widely used disability measure.36 The FIM contains 13 items related to self-care, bowel and bladder continence, mobility, and ambulation, and 5 items related to communication, social functioning, and cognition. The first 13 items are summed to develop a motor score, and the last 5 items are summed to develop a social/cognition score. Many studies have evaluated the reliability and validity of the FIM3738 and its sensitivity to change.3940Instrumental Activities of Daily Living ScalesAlthough several assessments measure BADL adequately, no single assessment measures IADL or leisure-time and recreational activities that a stroke patient may be asked to do or may want to do. Therefore, it is incumbent on the rehabilitation professional to learn what those tasks and activities are by interviewing and selecting the most appropriate assessment(s) for that particular patient. Assessment should be based on performance, not capacity.2 Two assessments are recommended in Post-Stroke Rehabilitation: Clinical Practice Guideline.12 The Philadelphia Geriatric Center (PGC) Instrumental Activities of Daily Living Scale measures IADL at home and in the community.414243 Using self-reports by the patient and his or her family,4445 the Frenchay Activities Index measures leisure, work, and outdoor activities as well as IADL at home.Psychometric Properties of the AHA Stroke Outcome ClassificationTo test the psychometric properties of the AHA.SOC, cases were selected from the Kansas City Stroke Study. This community-based study follows acute hospitalized stroke cases in the Kansas City area to determine measurable stroke outcomes and track recovery over time using standardized assessment measures. For this project, 3-month poststroke survivors were evaluated with the NIHSS,14 the Barthel Index,29 the Lawton IADL score,41 the Geriatric Depression Scale,28 and the MMSE.19 The task force identified 10 raters with experience in stroke trials, including physicians, nurses, and allied health professionals. Each rater used the AHA.SOC to evaluate the severity and impact of stroke on 10 patients for a total of 100 assessments. Interrater reliability was calculated with weighted kappas, a composite measure of agreement across all categories and raters. A weighted average of the individual kappa values was used to calculate an overall kappa value. Kappa values ≥0.75 are considered an excellent agreement beyond chance; values <0.40 are considered poor agreement beyond chance; values between 0.40 and 0.75 represent fair to good agreement beyond chance. The overall kappa value for the stroke severity classification was 0.76. The overall kappa value for the number of domains impaired was 0.56. The kappa values for the various levels of the functional classification ranged from 0.71 to 0.88. The overall kappa value for the functional disability classification was 0.77. On the basis of the data analysis, it was concluded that the AHA.SOC scores were reproducible and that the AHA.SOC accurately classified neurological impairments and stroke-related disability.Application of the AHA Stroke Outcome Classification Score to Sample CasesThe following cases illustrate the decision-making process and use of the AHA.SOC in assessments of 3 stroke patients.Case 1: A 62-year-old man has an ischemic infarct in the left hemisphere. Neurologically he is cognitively intact, not depressed, and able to communicate. He has no residual weakness or sensory loss. Three months after the stroke he is living independently at home without healthcare assistance for basic daily activities. He manages routine household maintenance and needs assistance only with community activities such as shopping and banking. The stroke classification score for this patient is number of domains impaired=0; stroke severity=A; functional classification=Level II. AHA.SOC score=0.A.II.Case 2 is a 74-year-old woman with a large-vessel infarct in the right hemisphere. Neurologically she has the following residual impairments: partial hemianopia, facial palsy, and sensory loss and weakness in the upper and lower left extremities. She is not depressed and is cognitively intact. She lives at home with professional home healthcare assistance. She requires the assistance of another person to access the community. She is unable to do housekeeping tasks or prepare meals. She can take her own medications and use a telephone; however, she cannot bathe independently or climb stairs. The stroke classification score for this patient is number of domains impaired=3; stroke severity=B; functional classification level=lll. AHA.SOC score=3.B.III.Case 3 is an 85-year-old woman with a right-hemisphere infarct who lives in a skilled-nursing facility. She has paralysis of the left upper and lower extremities, partial hemianopia, cognitive impairment, and depression. She eats independently but is incontinent and needs help with dressing, bathing, toileting, and mobility-related activities. She cannot manage her medications, prepare her meals, use the telephone, or access the community without special transportation arrangements. The stroke classification score for this patient is number of domains impaired=3; stroke severity score=C; functional classification level=V. AHA.SOC score=3.C.V.ConclusionNew therapies and improved survival after stroke provide an opportune time to develop a stroke outcome classification system that measures the full range of domains affected by stroke. The AHA.SOC score provides a mechanism to comprehensively document stroke impairments and disabilities in a single summary stroke score. The system can be used by healthcare providers to reliably assess recovery, measure responses to treatment, and describe the long-term impact of stroke on survivors."The American Heart Association Stroke Outcome Classification" was approved by the American Heart Association Science Advisory and Coordinating Committee in December 1997.A single reprint is available by calling 800-242-8721 (US only) or writing the American Heart Association, Public Information, 7272 Greenville Avenue, Dallas, TX 75231-4596. Ask for reprint No. 71–0141. To purchase additional reprints: up to 999 copies, call 800-611-6083 (US only) or fax 413-665-2671; 1000 or more copies, call 214-706-1466, fax 214-691-6342, or Download figureDownload PowerPoint Figure 1. American Heart Association Stroke Outcome Classification (AHA.SOC). BADL indicates Basic Activities of Daily Living: feeding and swallowing, grooming, dressing, bathing, continence, toileting, and mobility; and IADL, Instrumental Activities of Daily Living: using the telephone, handling money, shopping, using transportation, maintaining a household, working, participating in leisure activities, etc. Table 1. Appendix: Stroke Deficit ScalesScaleDescription and Type of ScaleTime and AdministrationCommentsNIH Stroke Scale1415 items scored on 3- or 4-point interval scalesUses: acute care, screening, formal assessment, and monitoring Time: 10 minBrief. Can be administered by non-neurologists.Domains: consciousness, vision, extraocular movements, facial palsy, limb strength, ataxia, sensation, speech, and languageInterval scale good reliability. Omits dysphagia.Canadian Neurological Scale158 items scored on 3-point interval scaleUses: acute care, screening, formal assessment, and monitoring Time: 5 minBrief.Domains: consciousness, orientation, speech, motor function, and facial weaknessOmits ataxia, visual fields, and eye movements. Interval scale relatively insensitive to change. Table 2. Appendix: Mental Status Screening TestMental Status Screening TestScaleDescription and Type of ScaleTime and AdministrationCommentsMini-Mental State Exam197 domains, including orientation to time and place, registration of words, attention, calculation, recall, language, and visual constructionUses: screening, assessment, and monitoring Time: <10 minWidely used for screening. May misclassify patients with aphasia. Education and normal aging must be considered in interpreting overall score.Neurobehavioral Cognitive Status Exam2210 scales: graded assessment of function Domains: orientation, attention, comprehension, naming, construction, memory, calculation, similarities,  and  screening, assessment, and monitoring Time:   not distinguish  from    with  Table  Appendix: Language  ScalesScaleDescription and Type of ScaleTime and  Diagnostic Aphasia   speech and language  on a   scale   fluency, naming,   repetition,  speech,  comprehension, reading, and       of  and  formal assessment and monitoring Time:     good   and     rating scale of functional     social communication,  of daily  reading,  number  and daily  formal assessment and monitoring Time:   on  of   by  although  from  and  is also  Table  Appendix: Depression ScalesScaleDescription and Type of ScaleTime and  Depression Scale  scale with  items in    items  to   and monitoring Time: 10 minBrief.  affected by visual impairments, physical  difficulty in   and poor     for the  and the cognitively  for   of Depression   measures severity of  symptoms  questionnaire    and level of  within the    and monitoring Time:    easily   in the   for  stroke population. Table  Appendix: BADL ScalesScaleDescription and Type of ScaleTime and   scale with scores from    to 100    minWidely  measure for   reliability and  weighted   bathing, grooming, dressing, bladder  bowel  toileting,   mobility, and   for screening, formal assessment,  and  scale with    scale with scores   of   self-care, sphincter  mobility,  communication, and social      for screening, formal assessment,   and    in   measure of  and social  standardized  reliability by  of  Table  Appendix: IADL ScalesScaleDescription and Type of ScaleTime and  Instrumental Activities of Daily  scale  on   shopping,    public transportation, and     for maintenance in community  measure  with    on information necessary for independent  Activities  items  activities at and  the   score  and  scores for   and outdoor activities.  on self-reports by patient and  monitoring Time:    for stroke   broad  of activities of daily       for her  assistance with this   1  Heart and Stroke   Dallas,  American Heart        and new  in stroke outcome       The call for      Classification of   and  A  of Classification  to the  of     Health      Disability    for       and    American          Disability in   a National  for    National            outcome measures in a clinical study of stroke.                P. A  of  stroke scales with measures of disability, handicap, and quality of life.             motor impairment as a predictor of physical disability after stroke                    H.  quality of life in stroke.        and  for  of  of the Heart and               Duncan      Post-Stroke  Clinical Practice  No.      of Health and   Public Health   for Health   and               A   study of     during the                                  of acute   a clinical examination          C,       The Canadian Neurological   and reliability            C,    of neurological scales and   for acute stroke     Hershey      dementia.      of   New                   after ischemic  a  study in               A  method for  the cognitive  of patients for
+
+---
+
+## 23. ESC/EAS Guidelines for the management of dyslipidaemias: The Task Force for the management of dyslipidaemias of the European Society of Cardiology (ESC) and the European Atherosclerosis Society (EAS)
+
+- **Authors:** Željko Reiner, Alberico L. Catapano, Guy De Backer, Ian Graham, Marja‐Riitta Taskinen et al.
+- **Year:** 2011
+- **DOI:** 10.1093/eurheartj/ehr158
+- **Source:** openalex
+- **Citations:** 3508
+- **Journal:** European Heart Journal
+
+**Abstract:**
+Cardiovascular disease (CVD) due to atherosclerosis of the arterial vessel wall and to thrombosis is the foremost cause of premature mortality and of disability-adjusted life years (DALYs) in Europe, and is also increasingly common in developing countries.1 In the European Union, the economic cost of CVD represents annually E192 billion1 in direct and indirect healthcare costs. The main clinical entities are coronary artery disease (CAD), ischaemic stroke, and peripheral arterial disease (PAD). The causes of these CVDs are multifactorial. Some of these factors relate to lifestyles, such as tobacco smoking, lack of physical activity, and dietary habits, and are thus modifiable. Other risk factors are also modifiable, such as elevated blood pressure, type 2 diabetes, and dyslipidaemias, or non-modifiable, such as age and male gender. These guidelines deal with the management of dyslipidaemias as an essential and integral part of CVD prevention. Prevention and treatment of dyslipidaemias should always be considered within the broader framework of CVD prevention, which is addressed in guidelines of the Joint European Societies’ Task forces on CVD prevention in clinical practice.2 – 5 The latest version of these guidelines was published in 20075; an update will become available in 2012. These Joint ESC/European Atherosclerosis Society (EAS) guidelines on the management of dyslipidaemias are complementary to the guidelines on CVD prevention in clinical practice and address not only physicians [e.g. general practitioners (GPs) and cardiologists] interested in CVD prevention, but also specialists from lipid clinics or metabolic units who are dealing with dyslipidaemias that are more difficult to classify and treat.
+
+---
+
+## 24. The Internet of Things for Health Care: A Comprehensive Survey
+
+- **Authors:** S. M. Riazul Islam, Daehan Kwak, Md. Humaun Kabir, Mahmud Hossain, Kyung Sup Kwak
+- **Year:** 2015
+- **DOI:** 10.1109/access.2015.2437951
+- **Source:** openalex
+- **Citations:** 2890
+- **Journal:** IEEE Access
+
+**Abstract:**
+The Internet of Things (IoT) makes smart objects the ultimate building blocks in the development of cyber-physical smart pervasive frameworks. The IoT has a variety of application domains, including health care. The IoT revolution is redesigning modern health care with promising technological, economic, and social prospects. This paper surveys advances in IoT-based health care technologies and reviews the state-of-the-art network architectures/platforms, applications, and industrial trends in IoT-based health care solutions. In addition, this paper analyzes distinct IoT security and privacy features, including security requirements, threat models, and attack taxonomies from the health care perspective. Further, this paper proposes an intelligent collaborative security model to minimize security risk; discusses how different innovations such as big data, ambient intelligence, and wearables can be leveraged in a health care context; addresses various IoT and eHealth policies and regulations across the world to determine how they can facilitate economies and societies in terms of sustainable development; and provides some avenues for future research on IoT-based health care based on a set of open issues and challenges.
+
+---
+
+## 25. Standards of Medical Care in Diabetes—2010
+
+- **Authors:** American Diabetes Association
+- **Year:** 2009
+- **DOI:** 10.2337/dc10-s011
+- **Source:** openalex
+- **Citations:** 3428
+- **Journal:** Diabetes Care
+
+**Abstract:**
+No abstract available
+
+---
+
+## 26. A review of wearable sensors and systems with application in rehabilitation
+
+- **Authors:** Shyamal Patel, Hyung Park, Paolo Bonato, Leighton Chan, Mary M. Rodgers
+- **Year:** 2012
+- **DOI:** 10.1186/1743-0003-9-21
+- **Source:** openalex
+- **Citations:** 2165
+- **Journal:** Journal of NeuroEngineering and Rehabilitation
+
+**Abstract:**
+No abstract available
+
+---
+
+## 27. Guidelines for Management of Ischaemic Stroke and Transient Ischaemic Attack 2008
+
+- **Authors:** Peter A. Ringleb, Marie Germaine Bousser, Gary A. Ford, Philip M. Bath, Michael Brainin et al.
+- **Year:** 2008
+- **DOI:** 10.1159/000131083
+- **Source:** openalex
+- **Citations:** 2478
+- **Journal:** Cerebrovascular Diseases
+
+**Abstract:**
+This article represents the update of the European Stroke Initiative Recommendations for Stroke Management. These guidelines cover both ischaemic stroke and transient ischaemic attacks, which are now considered to be a single entity. The article covers referral and emergency management, Stroke Unit service, diagnostics, primary and secondary prevention, general stroke treatment, specific treatment including acute management, management of complications, and rehabilitation.
+
+---
+
+## 28. Cognitive Training Attenuates Decline in Physical Function Across 10 Years
+
+- **Authors:** Briana N. Sprague, Christine B. Phillips, Lesley A. Ross
+- **Year:** 2020
+- **DOI:** 10.1093/geronb/gbaa072
+- **Source:** openalex
+- **Citations:** 7
+- **Journal:** The Journals of Gerontology Series B
+
+**Abstract:**
+Abstract Objectives Poor physical function is associated with negative health and cognitive outcomes. Although nine studies demonstrated that cognitive training reduces age-related declines in physical function, only one study has examined the effects beyond immediate posttest changes. The first aim of this study was to assess the impact of three cognitive training programs on physical function measures across 10 years and the second aim was to examine whether baseline cognitive self-efficacy or depressive symptoms moderated training effects. Method Using data from the Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE) randomized controlled trial, older adults in a no-contact control condition (n = 698) were compared to those receiving processing speed (n = 702), memory (n = 703), or reasoning (n = 694) training. Intention-to-treat (ITT) and dosage analyses were conducted for grip strength and Turn 360. Participants were followed up to 10 years posttest. Results There were no significant ITT effects of processing speed, memory, or reasoning training assignment to any physical function outcome (p &amp;gt; .05). Dosage models indicated that there were small age-related attenuation effects in Turn 360 decline with more processing speed training (b = −.011, p &amp;lt; .001), memory training (b = −.011, p &amp;lt; .001), and reasoning training (b = −.012, p &amp;lt; .001). There was no significant transfer to grip strength. These training gains were greater for those with more baseline depressive symptoms who received more processing speed training (b = −.001, p &amp;lt; .001). Discussion This is the first study to demonstrate the effects of cognitive training to complex physical function across 10 years.
+
+---
+
+## 29. Effects of Cognitive and Aerobic training on Working Memory and Executive Function in Aging, a Pseudo-Randomized Trial: Pilot Study
+
+- **Authors:** Clémence Joubert, Hanna Chainay
+- **Year:** 2019
+- **DOI:** 10.14302/issn.2474-7785.jarh-18-2458
+- **Source:** openalex
+- **Citations:** 4
+- **Journal:** Journal Of Aging Research And Healthcare
+
+**Abstract:**
+Introduction Cognitive and physical (especially aerobic) training have been reported to enhance cognition in the elderly. The goal of this study was to compare the effectiveness of two types of training, namely combined cognitive-and-physical training and cognitive training alone, for cognition and in particular for executive function and working memory. Material and Method Healthy older adults (aged 65–86 years) were included in cognitive-and-physical - CAP (n=16) - or cognitive - COG (n=16) - training groups or in a passive control group – CONT (n=16). The training took place in 60-minute sessions conducted twice a week for 8 weeks. Cognitive functions were assessed before and immediately after the interventions and at a 1-month follow-up. Results In the short-term, the CAP and COG groups showed a transfer on updating, unlike the CONT group. In the long-term, although the gains achieved by both CAP and COG persisted, the benefit observed in the COG group was greater than that in the CAP group. Conclusion Our data suggest that there may be a complementarity between cognitive and physical training effects at the level of short-term transfer, given that physical training was able to boost cognitive training. Moreover, regarding transfer, physical training may help improve performance on untrained tasks. However, as far as the long-term persistence of the benefits of training is concerned, the results tend to indicate the superiority of cognitive training.
+
+---
+
+## 30. Optimizing rehabilitation strategies in Parkinson's disease: a comparison of dual cognitive-walking treadmill training and single treadmill training.
+
+- **Authors:** Yen-Po Lin, I-I Lin, Wei-Da Chiou, Hsiu-Chen Chang, Rou-Shayn Chen et al.
+- **Year:** 2024
+- **DOI:** 10.1038/s41598-024-75422-0
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Scientific reports
+
+**Abstract:**
+Dual cognitive-walking treadmill training (DTT), designed to replicate real-life walking conditions, has shown promise effect in individuals with Parkinson's disease (PD). This study aims to compare the effects of DTT versus single treadmill training (STT) on cognitive and walking performance under both single and dual task conditions, as well as on fall, patients' subjective feeling, and quality of life. Sixteen individuals with PD were randomly assigned to DTT or STT group and underwent 8 weeks of training. The DTT group received treadmill training with cognitive loads, while the STT group received treadmill training without cognitive load. Outcome measures included gait parameters (speed, step length) and cognitive performance (reaction time, accuracy, composite score) under both single and dual task conditions. Unified Parkinson's Disease Rating Scale-part III (UPDRS-III), Falls Efficacy Scale (FES), Patient Global Impression of Change (PGIC), and Parkinson's Disease Questionnaire (PDQ-39) were also measured. Both DTT and STT groups showed increased comfortable walking speed and step length. Only the DTT group demonstrated significant improvements in cognitive composite score under both single and dual task conditions, as well as UPDRS-III, FES, and PDQ-39(p < 0.05). DTT can enhance cognitive function without compromising walking ability and also have real-world transferability.
+
+---
+
+## 31. Japan-Multimodal Intervention Trial for the Prevention of Dementia: A randomized controlled trial.
+
+- **Authors:** Takashi Sakurai, Taiki Sugimoto, Hiroyasu Akatsu, Takehiko Doi, Yoshinori Fujiwara et al.
+- **Year:** 2024
+- **DOI:** 10.1002/alz.13838
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Alzheimer's & dementia : the journal of the Alzheimer's Association
+
+**Abstract:**
+We examined the efficacy of a multidomain intervention in preventing cognitive decline among Japanese older adults with mild cognitive impairment (MCI).
+
+---
+
+## 32. The Effects of Highly Challenging Balance Training in Elderly With Parkinson's Disease: A Randomized Controlled Trial.
+
+- **Authors:** David Conradsson, Niklas Löfgren, Håkan Nero, Maria Hagströmer, Agneta Ståhle et al.
+- **Year:** 2015
+- **DOI:** 10.1177/1545968314567150
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Neurorehabilitation and neural repair
+
+**Abstract:**
+Highly challenging exercises have been suggested to induce neuroplasticity in individuals with Parkinson's disease (PD); however, its effect on clinical outcomes remains largely unknown.
+
+---
+
+## 33. Cognitive plasticity in older adults: effects of cognitive training and physical exercise.
+
+- **Authors:** Louis Bherer
+- **Year:** 2015
+- **DOI:** 10.1111/nyas.12682
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Annals of the New York Academy of Sciences
+
+**Abstract:**
+Cognitive training, physical activity, and exercise have often been reported to improve cognitive performance in older adults. This paper reviews some seminal and recent studies using these approaches to improve cognition and physical functioning in healthy older adults and in patients suffering from non-neurological chronic medical conditions. Results from cognitive training studies suggest that despite performance improvement in trained tasks, transfer effects appeared very limited. Surprisingly though, computerized dual-task training has been shown to improve balance and postural control in tests of physical functioning, suggesting that broad transfer can sometimes be observed. Physical exercise intervention studies generally found significant and large improvements in physical capacity, in some cognitive domains, and in quality of life. The benefits seem to be equivalent between frail and nonfrail participants. Overall, results reviewed here support the notion that cognitive plasticity for attentional control, as induced by cognitive training or physical activity and exercise, is preserved in late adulthood. Moreover, results of studies with patients at risk of cognitive decline also suggest that cognitive training and exercise interventions are promising nonpharmaceutical tools to help improve cognition in older at-risk individuals.
+
+---
+
+## 34. Synergistic Effects of Cognitive Training and Physical Exercise on Dual-Task Performance in Older Adults.
+
+- **Authors:** Louis Bherer, Christine Gagnon, Antoine Langeard, Maxime Lussier, Laurence Desjardins-Crépeau et al.
+- **Year:** 2021
+- **DOI:** 10.1093/geronb/gbaa124
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** The journals of gerontology. Series B, Psychological sciences and social sciences
+
+**Abstract:**
+Studies report benefits of physical exercise and cognitive training to enhance cognition in older adults. However, most studies did not compare these interventions to appropriate active controls. Moreover, physical exercise and cognitive training seem to involve different mechanisms of brain plasticity, suggesting a potential synergistic effect on cognition.
+
+---
+
+## 35. Elements virtual rehabilitation improves motor, cognitive, and functional outcomes in adult stroke: evidence from a randomized controlled pilot study.
+
+- **Authors:** Jeffrey M Rogers, Jonathan Duckworth, Sandy Middleton, Bert Steenbergen, Peter H Wilson
+- **Year:** 2019
+- **DOI:** 10.1186/s12984-019-0531-y
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Journal of neuroengineering and rehabilitation
+
+**Abstract:**
+Virtual reality technologies show potential as effective rehabilitation tools following neuro-trauma. In particular, the Elements system, involving customized surface computing and tangible interfaces, produces strong treatment effects for upper-limb and cognitive function following traumatic brain injury. The present study evaluated the efficacy of Elements as a virtual rehabilitation approach for stroke survivors.
+
+---
+
+## 36. Effects of exergames and cognitive-motor dual-task training on cognitive, physical and dual-task functions in cognitively healthy older adults: An overview.
+
+- **Authors:** M Gallou-Guyot, S Mandigout, L Bherer, A Perrochon
+- **Year:** 2020
+- **DOI:** 10.1016/j.arr.2020.101135
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Ageing research reviews
+
+**Abstract:**
+This overview aims to summarize the effectiveness of cognitive-motor dual-task and exergame interventions on cognitive, physical and dual-task functions in healthy older adults, as well as the feasibility, safety, adherence, transfer and retention of benefits of these interventions. We searched for systematic reviews or meta-analyses assessing the effects of cognitive-motor dual-task and exergame interventions on cognitive, physical and dual-task functions in cognitively healthy older adults through eight databases (CDSR (Cochrane), MEDLINE (PubMed), Scopus, EMBASE, CINAHL, PsycINFO, ProQuest and SportDiscus). Two reviewers performed the selection, data extraction and risk of bias evaluation independently (PROSPERO ID: CRD42019143185). Eighteen reviews were included in this overview. Overall, positive effects of cognitive-motor dual-task interventions on cognitive, physical and dual-task functions, as well as exergames on cognitive functions only, were observed in cognitively healthy older adults. In contrast, the effects of exergames on physical functions are more controversial, and their effects on dual-task functions have not been studied. The feasibility, safety, adherence, transfer and retention of benefits for both intervention types are still unclear. Future studies should follow more rigorous methodological standards in order to improve the quality of evidence and provide guidelines for the use of cognitive-motor dual-task and exergame interventions in older adults.
+
+---
+
+## 37. A Comparison of the Effects of Short-Term Physical and Combined Multi-Modal Training on Cognitive Functions.
+
+- **Authors:** Claudia Kardys, Kristina Küper, Stephan Getzmann, Michael Falkenstein, Claudia Voelcker-Rehage
+- **Year:** 2022
+- **DOI:** 10.3390/ijerph19127506
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** International journal of environmental research and public health
+
+**Abstract:**
+Physical training has beneficial effects not only on physical fitness, but also on cognitive functions. The most effective way to improve cognitive functions via physical training as well as the degree to which training effects transfer to untrained cognitive functions is still unclear, however. Here, we investigated the effects of adaptive and multi-modal short-term training interventions on cognitive training gains and transfer effects. Over a period of 12 weeks, 102 employees of a car manufacturing company (age range 20 to 61 years) received trainer-guided exercises, consisting of either two adaptive training interventions, physical (strength) training and multi-modal (motor-cognitive) training, or non-adaptive strength training (active control group). For the multi-modal intervention, the "Agility Board" was employed, a novel, multi-modal training device. Pre- and post-training, psychometric tests were conducted to measure cognitive abilities, such as perceptual speed, attention, short-term memory, working memory, inhibition, and mental rotation. In addition, motor-cognitive performance was assessed. Compared with the active control group, both training groups showed enhanced performance at posttest. While multi-modal training yielded performance improvements only in trained tasks, physical training was associated with improvements in untrained working memory updating and immediate recall tasks, suggesting transfer effects to short-term and working memory functioning. In summary, the results demonstrate the importance of adaptive difficulty settings for short-term physical training interventions, at least for the enhancement of working memory.
+
+---
+
+## 38. Effects of combined physical and cognitive training on fitness and neuropsychological outcomes in healthy older adults.
+
+- **Authors:** Laurence Desjardins-Crépeau, Nicolas Berryman, Sarah A Fraser, Thien Tuong Minh Vu, Marie-Jeanne Kergoat et al.
+- **Year:** 2016
+- **DOI:** 10.2147/cia.s115711
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Clinical interventions in aging
+
+**Abstract:**
+Physical exercise and cognitive training have been shown to enhance cognition among older adults. However, few studies have looked at the potential synergetic effects of combining physical and cognitive training in a single study. Prior trials on combined training have led to interesting yet equivocal results. The aim of this study was to examine the effects of combined physical and cognitive interventions on physical fitness and neuropsychological performance in healthy older adults.
+
+---
+
+## 39. ERP and Behavioral Effects of Physical and Cognitive Training on Working Memory in Aging: A Randomized Controlled Study.
+
+- **Authors:** Patrick D Gajewski, Michael Falkenstein
+- **Year:** 2018
+- **DOI:** 10.1155/2018/3454835
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Neural plasticity
+
+**Abstract:**
+Working memory (WM) performance decreases with age. A promising method to improve WM is physical or cognitive training. The present randomized controlled study is aimed at evaluating the effects of different training methods on WM. A sample of 141 healthy older adults (mean age 70 years) was assigned to one of four groups: physical training, cognitive training, a social control group, and a no-contact control group. The participants trained for four months. Before and after the training, 
+
+---
+
+## 40. Exercise-conditioned plasma ameliorates postoperative cognitive dysfunction by activating hippocampal cholinergic circuit and enhancing BDNF/TrkB signaling.
+
+- **Authors:** Xiaodi Lu, Weijie Xiong, Zhuo Chen, Yurou Li, Fengyan Xu et al.
+- **Year:** 2024
+- **DOI:** 10.1186/s12964-024-01938-7
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Cell communication and signaling : CCS
+
+**Abstract:**
+Postoperative cognitive dysfunction (POCD) is a prevalent complication following anesthesia and surgery, particularly in the elderly, leading to increased mortality and reduced quality of life. Despite its prevalence, there are no effective clinical treatments. Exercise has shown cognitive benefits in aging and various diseases, which can be transferred to sedentary animals through plasma. However, it is unclear if exercise-conditioned plasma can replicate these benefits in the context of POCD.
+
+---
+
+## 41. Virtual reality as a method of cognitive training of processing speed, working memory, and sustained attention in persons with acquired brain injury: a protocol for a randomized controlled trial.
+
+- **Authors:** T Johansen, M Matre, M Løvstad, A Lund, A C Martinsen et al.
+- **Year:** 2024
+- **DOI:** 10.1186/s13063-024-08178-7
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Trials
+
+**Abstract:**
+Acquired brain injury (ABI) often leads to persisting somatic, cognitive, and social impairments. Cognitive impairments of processing speed, sustained attention, and working memory are frequently reported and may negatively affect activities of daily living and quality of life. Rehabilitation efforts aiming to retrain these cognitive functions have often consisted of computerized training programs. However, few studies have demonstrated effects that transfer beyond the trained tasks. There is a growing optimism regarding the potential usefulness of virtual reality (VR) in cognitive rehabilitation. The research literature is sparse, and existing studies are characterized by considerable methodological weaknesses. There is also a lack of knowledge about the acceptance and tolerability of VR as an intervention method for people with ABI. The present study aims to investigate whether playing a commercially available VR game is effective in training cognitive functions after ABI and to explore if the possible effects transfer into everyday functioning.
+
+---
+
+## 42. Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.
+
+- **Authors:** 
+- **Year:** 2025
+- **DOI:** 10.1016/S0140-6736(25)01637-X
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Lancet (London, England)
+
+**Abstract:**
+For more than three decades, the Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) has provided a framework to quantify health loss due to diseases, injuries, and associated risk factors. This paper presents GBD 2023 findings on disease and injury burden and risk-attributable health loss, offering a global audit of the state of world health to inform public health priorities. This work captures the evolving landscape of health metrics across age groups, sexes, and locations, while reflecting on the remaining post-COVID-19 challenges to achieving our collective global health ambitions.
+
+---
+
+## 43. The effects of video-game training on broad cognitive transfer in multiple sclerosis: A pilot randomized controlled trial.
+
+- **Authors:** Alisha Janssen, Aaron Boster, HyunKyu Lee, Beth Patterson, Ruchika Shaurya Prakash
+- **Year:** 2015
+- **DOI:** 10.1080/13803395.2015.1009366
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Journal of clinical and experimental neuropsychology
+
+**Abstract:**
+Multiple sclerosis (MS) is a neurodegenerative disease of the central nervous system that results in diffuse nerve damage and associated physical and cognitive impairments. Of the few comprehensive rehabilitation options that exist for populations with lower baseline cognitive functioning, those that have been successful at eliciting broad cognitive improvements have focused on a multimodal training approach, emphasizing complex cognitive processing that utilizes multiple domains simultaneously.
+
+---
+
+## 44. Effects of Cognitive Training in Flanker Task on Mobility of Older Adults: A Randomized Controlled Trail.
+
+- **Authors:** Yu Liu, Man Zheng, Jianxiu Liu, Chunmei Cao, Yu Ding
+- **Year:** 2023
+- **DOI:** 10.1159/000529088
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Gerontology
+
+**Abstract:**
+Cognitive function is considered to be correlated with the older adults' mobility. Flanker task, reflecting the conflict resolution, is barely explored as a simple approach to train the older adults' cognitive function. Hence, the first aim of this study was to explore the effect of cognitive intervention adopting flanker task on mobility. The second aim of this study was to assess the effect of cognitive training by comparing it with physical training to disclose how much dosage of cognitive training can have the equal improvement of mobility with physical training.
+
+---
+
+## 45. Training and transfer effects of response inhibition training in children and adults.
+
+- **Authors:** Xin Zhao, Ling Chen, Joseph H R Maes
+- **Year:** 2018
+- **DOI:** 10.1111/desc.12511
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Developmental science
+
+**Abstract:**
+Response inhibition is crucial for mental and physical health but studies assessing the trainability of this type of inhibition are rare. Thirty-nine children aged 10-12 years and 46 adults aged 18-24 years were assigned to an adaptive go/no-go inhibition training condition or an active control condition. Transfer of training effects to performance on tasks assessing response inhibition, interference control, working memory updating, task-switching, and non-verbal fluid intelligence were assessed during 3- and 6-month follow-up sessions and/or an immediate post-training session. Significant training improvements and positive transfer effects to a similar response inhibition task with other stimuli were observed for both children and adults. Reliable albeit short-lived transfer effects were only found for the children, specifically to working memory updating and task switching. These results suggest some potential for response-inhibition training programs to enhance aspects of cognitive functioning in children but not adults.
+
+---
+
+## 46. Long-Term Effects of Individually Tailored Physical Training and Activity on Physical Function, Well-Being and Cognition in Scandinavian Nursing Home Residents: A Randomized Controlled Trial.
+
+- **Authors:** Kerstin Frändin, Helena Grönstedt, Jorunn L Helbostad, Astrid Bergland, Mette Andresen et al.
+- **Year:** 2016
+- **DOI:** 10.1159/000443611
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Gerontology
+
+**Abstract:**
+The preservation of physical functions such as muscle strength, balance and mobility is fundamental to maintaining independence in activities of daily living (ADL). The physical activity level of most nursing home residents is very low, which implies that they are often subject to a decline in health, mobility, autonomy and social contacts and are also at risk of suffering a decline in mental well-being. In a previous study, we demonstrated that transfers, balance and physical activity level improved after 3 months of individually tailored intervention in nursing home residents.
+
+---
+
+## 47. Aging brain: the effect of combined cognitive and physical training on cognition as compared to cognitive and physical training alone - a systematic review.
+
+- **Authors:** Clémence Joubert, Hanna Chainay
+- **Year:** 2018
+- **DOI:** 10.2147/CIA.S165399
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Clinical interventions in aging
+
+**Abstract:**
+This review presents a critical examination of current knowledge of the impact of combined cognitive and physical training on cognition in healthy elderly subjects. The objectives are to evaluate the contribution of cognitive and physical training to the enhancement of cognition, and to determine the interest of combining these two training types in one intervention in terms of the benefits for cognition (direct and transfer), long-term maintenance, and transfer to daily living. To do so, a systematic electronic search was conducted in PubMed and Google Scholar. Exclusion criteria were animal and pathological aging studies. We focused on the shared and different behavioral impacts of these two types of training on cognition, as well as their functional and structural impact on the brain. The review indicates that both cognitive and physical training have an impact on cognition and on the brain. However, each type of training seems to preferentially enhance different cognitive functions and specifically impact both brain structure and function. Even though some results argue in favor of a complementarity between cognitive and physical training and the superiority of combined cognitive and physical training, the current state of knowledge does not permit any definitive conclusion. Thus, the present review indicates the need for additional investigations.
+
+---
+
+## 48. The impact of behavioral interventions on cognitive function in healthy older adults: A systematic review.
+
+- **Authors:** Briana N Sprague, Sara A Freed, Christina E Webb, Christine B Phillips, Jinshil Hyun et al.
+- **Year:** 2019
+- **DOI:** 10.1016/j.arr.2019.04.002
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Ageing research reviews
+
+**Abstract:**
+Behavioral interventions to improve cognitive function in older adults are widespread and can vary from theater classes to cognitive training programs. However, the effectiveness in maintaining different cognitive domains varies greatly both across and within intervention types. To date, no systematic reviews have synthesized findings across more than a few types of interventions (e.g., cognitive vs. exercise). This systematic review examined 11 types of behavioral interventions and the respective transfer to 19 cognitive domains, as well as transfer to everyday function. Study inclusion criteria were: peer-reviewed articles in English, samples of healthy adults aged 65 and older, and randomized controlled trials of behavioral interventions with reported cognitive outcomes. The 2017 search yielded 75 eligible articles comprising cognitive training, exercise training, combination interventions, cognitively-stimulating activities, and action video games. In general, process- (n = 26) and strategy-based (n = 16) cognitive training improved the trained domains but had weak transfer to non-trained domains. Aerobic training (n = 13) most consistently improved executive function, and strength/resistance (n = 8) and aerobic/resistance combination training (n = 6) most consistently improved cognitive inhibition and visual working memory. Combination interventions (n = 15 nonfactorial, n = 3 factorial) showed promise in improving verbal delayed recall and executive function. Few studies examined cognitively-stimulating activities or action video games, leaving inconclusive results about their effect on cognitive function. Few studies examined everyday function (n = 9), however, process- and strategy-based training demonstrated notable long-term transfer. Recommendations for future research and practice are highlighted.
+
+---
+
+## 49. The effect of tablet-based multimodal training on cognitive functioning in Alzheimer's disease: A randomized controlled trial.
+
+- **Authors:** Julia Zuschnegg, Stefan Ropele, Peter Opriessnig, Reinhold Schmidt, Silvia Russegger et al.
+- **Year:** 2025
+- **DOI:** 10.1371/journal.pone.0329931
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** PloS one
+
+**Abstract:**
+Computerized cognitive training conducted in a home setting has shown beneficial effects on cognitive functions in people with mild cognitive impairment. Similar effects in people suffering from Alzheimer's disease (AD) have not yet been found. We aimed to examine the effect of a six-month tablet-based multimodal training in community-dwelling people with mild to moderate AD on cognitive functions and on the volume of (sub)cortical structures.
+
+---
+
+## 50. Strategies to Promote Cognitive Health in Aging: Recent Evidence and Innovations.
+
+- **Authors:** Lauren E Oberlin, Abhishek Jaywant, Abigail Wolff, Faith M Gunning
+- **Year:** 2022
+- **DOI:** 10.1007/s11920-022-01348-x
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Current psychiatry reports
+
+**Abstract:**
+We review recent work on applications of non-pharmacologic strategies to promote cognitive health in older adulthood and discuss potential network mechanisms, limitations, and considerations for improving intervention uptake and efficacy.
+
+---
+
+## 51. Transfer of training effects in stroke patients with apraxia: an exploratory study.
+
+- **Authors:** Chantal Geusgens, Caroline van Heugten, Mireille Donkervoort, Els van den Ende, Jelle Jolles et al.
+- **Year:** 2006
+- **DOI:** 10.1080/09602010500172350
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Neuropsychological rehabilitation
+
+**Abstract:**
+The goal of the present study was to examine the transfer of the effects of cognitive strategy training for stroke patients with apraxia from trained to non-trained tasks. In strategy training, the occurrence of transfer is expected as the training programme is aimed, not at relearning specific tasks, but at teaching patients new ways to handle the problems resulting from the impairment. Exploratory analyses were conducted on data previously collected in a randomised controlled trial on the efficacy of the strategy training. A total of 113 left hemisphere stroke patients were randomly assigned to a strategy training group and a group receiving occupational therapy as usual. Assessment of apraxia, motor functioning and activities of daily living (ADL) took place at baseline, after an eight-week treatment period, and five months after baseline. The primary outcome measure consisted of standardised ADL observations of trained and non-trained tasks. The analyses showed that in both treatment groups, the scores on the ADL observations for non-trained tasks improved significantly after eight weeks of training as compared with the baseline score. Change scores of non-trained activities were larger in the strategy training group as compared with the usual treatment group. By using previously collected data we are able to illustrate the potential transfer of treatment effects in a large sample of stroke patients. We found indications for the occurrence of transfer, although the study was not originally designed for the purpose of evaluating transfer. Therefore these results are worth exploring more profoundly. We will further investigate our preliminary conclusions in a new prospective study which is specifically designed to examine the transfer of training effects.
+
+---
+
+## 52. The Impact of Three Cognitive Training Interventions on Older Adults' Physical Functioning Across 5 Years.
+
+- **Authors:** Lesley A Ross, Briana N Sprague, Christine B Phillips, Melissa L O'Connor, Joan E Dodson
+- **Year:** 2018
+- **DOI:** 10.1177/0898264316682916
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Journal of aging and health
+
+**Abstract:**
+Physical functioning is closely associated with cognition. The current study assessed the impact of three cognitive training programs on objective measures of physical functioning across 5 years.
+
+---
+
+## 53. Components of effective exergame-based training to improve cognitive functioning in middle-aged to older adults - A systematic review and meta-analysis.
+
+- **Authors:** Patrick Manser, Fabian Herold, Eling D de Bruin
+- **Year:** 2024
+- **DOI:** 10.1016/j.arr.2024.102385
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Ageing research reviews
+
+**Abstract:**
+Exergame-based training is currently considered a more promising training approach than conventional physical and/or cognitive training.
+
+---
+
+## 54. Cognitive and Psychosocial Outcomes of Self-Guided Executive Function Training and Low-Intensity Aerobic Exercise in Healthy Older Adults.
+
+- **Authors:** Lixia Yang, Sara N Gallant, Leanne Karyn Wilkins, Ben Dyson
+- **Year:** 2020
+- **DOI:** 10.3389/fnagi.2020.576744
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Frontiers in aging neuroscience
+
+**Abstract:**
+Prior work has demonstrated that executive function training or physical exercise can improve older adults' cognition. The current study takes an exploratory approach to compare the feasibility and efficacy of online executive function training and low-intensity aerobic exercise for improving cognitive and psychosocial functioning in healthy older adults.
+
+---
+
+## 55. Mechanisms and modulators of cognitive training gain transfer in cognitively healthy aging: study protocol of the AgeGain study.
+
+- **Authors:** Dominik Wolf, Oliver Tüscher, Stefan Teipel, Andreas Mierau, Heiko Strüder et al.
+- **Year:** 2018
+- **DOI:** 10.1186/s13063-018-2688-2
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** Trials
+
+**Abstract:**
+Cognitively healthy older people can increase their performance in cognitive tasks through training. However, training effects are mostly limited to the trained task; thus, training effects only poorly transfer to untrained tasks or other contexts, which contributes to reduced adaptation abilities in aging. Stabilizing transfer capabilities in aging would increase the chance of persistent high performance in activities of daily living including longer independency, and prolonged active participation in social life. The trial AgeGain aims at elaborating the physiological brain mechanisms of transfer in aging and supposed major modulators of transfer capability, especially physical activity, cerebral vascular lesions, and amyloid burden.
+
+---
+
+## 56. Arithmetic learning in advanced age.
+
+- **Authors:** Laura Zamarian, Christoph Scherfler, Christian Kremser, Marie-Theres Pertl, Elke Gizewski et al.
+- **Year:** 2018
+- **DOI:** 10.1371/journal.pone.0193529
+- **Source:** pubmed
+- **Citations:** N/A
+- **Journal:** PloS one
+
+**Abstract:**
+Acquisition of numerical knowledge and understanding of numerical information are crucial for coping with the changing demands of our digital society. In this study, we assessed arithmetic learning in older and younger individuals in a training experiment including brain imaging. In particular, we assessed age-related effects of training intensity, prior arithmetic competence, and neuropsychological variables on the acquisition of new arithmetic knowledge and on the transfer to new, unknown problems. Effects were assessed immediately after training and after 3 months. Behavioural results showed higher training effects for younger individuals than for older individuals and significantly better performance after 90 problem repetitions than after 30 repetitions in both age groups. A correlation analysis indicated that older adults with lower memory and executive functions at baseline could profit more from intensive training. Similarly, training effects in the younger group were higher for those individuals who had lower arithmetic competence and executive functions prior to intervention. In younger adults, successful transfer was associated with higher executive functions. Memory and set-shifting emerged as significant predictors of training effects in the older group. For the younger group, prior arithmetic competence was a significant predictor of training effects, while cognitive flexibility was a predictor of transfer effects. After training, a subgroup of participants underwent an MRI assessment. A voxel-based morphometry analysis showed a significant interaction between training effects and grey matter volume of the right middle temporal gyrus extending to the angular gyrus for the younger group relative to the older group. The reverse contrast (older group vs. younger group) did not yield any significant results. These results suggest that improvements in arithmetic competence are supported by temporo-parietal areas in the right hemisphere in younger participants, while learning in older people might be more widespread. Overall, our study indicates that arithmetic learning depends on the training intensity as well as on person-related factors including individual age, arithmetic competence before training, memory, and executive functions. In conclusion, we suggest that major progress can be also achieved by older participants, but that interventions have to take into account individual variables in order to provide maximal benefit.
+
+---
+
