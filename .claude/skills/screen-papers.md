@@ -93,5 +93,5 @@ Suggested agent for deeper analysis:
   → methodology-expert For detailed study design critique (RCT, observational)
 
 Next step:
-  → /build-sota    Synthesize shortlisted papers into SOTA review
+  → /export-references    Generate APA citations for shortlisted papers
 ```

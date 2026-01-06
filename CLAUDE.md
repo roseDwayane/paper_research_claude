@@ -53,15 +53,19 @@ python -m src.main "research topic"
       ▼                 ▼                  ▼                   ▼
  session_config    ~200 papers        shortlist.json    references_apa.md
  search_queries                       (25-40 papers)    citation_keys.md
-      │                                    │
-      └────────────────────────────────────┘
-                                           │
-                                           ▼
+                                                              │
+                                                              ▼
 /build-sota ──→ /find-gaps ──→ /generate-hypothesis ──→ /write-intro
       │              │                  │                    │
       ▼              ▼                  ▼                    ▼
  sota_review    gap_analysis      hypothesis_spec      gemini_prompt.md
  knowledge_graph  (2-3 gaps)      journal_recs        (copy to Gemini)
+```
+
+**Skill Chain:**
+```
+1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
+init → search → screen → references → sota → gaps → hypothesis → write
 ```
 
 ### Agents (5 total)

@@ -137,6 +137,6 @@ Files created:
   → interactive mode/references_apa.md
   → interactive mode/citation_keys.md
 
-Use citation_keys.md for quick in-text citation lookup.
-These references can be provided to Gemini via /write-intro.
+Next step:
+  → /build-sota    Synthesize shortlisted papers into SOTA review
 ```
