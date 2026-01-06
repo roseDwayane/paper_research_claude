@@ -1,97 +1,47 @@
-# /screen-papers
+---
+name: screen-papers
+description: Score and filter collected papers for relevance and quality
+---
 
-Screen and score all collected papers for relevance and quality.
+# Screen Papers
 
-## Usage
+## Instructions
+
+1. **Load papers** from `data/interactive/*_compact.md`
+2. **Define screening criteria** based on PICO:
+   - Inclusion: Addresses population, intervention, outcomes
+   - Exclusion: Wrong population, reviews only, non-English
+3. **Score each paper (1-5):**
+   - Relevance to topic (40%)
+   - Methodological quality (30%)
+   - Evidence strength (20%)
+   - Unique contribution (10%)
+4. **Apply threshold** (default: score ≥ 3.5)
+5. **Save outputs:**
+   - `interactive mode/screening_results.md` - All scores and rationale
+   - `interactive mode/shortlist.json` - Included papers
+6. **Suggest agents:** `research-critic`, `methodology-expert`
+7. **Suggest next step:** `/export-references`
+
+## Examples
+
+**User:** `/screen-papers`
+
+**Output:**
 ```
-/screen-papers
-```
+Screening complete: 14 papers included from 38 screened.
 
-## Prerequisites
-- Search results available in `data/interactive/` (run `/deep-search` first)
+| Category | Count |
+|----------|-------|
+| Core papers | 8 |
+| Review papers | 2 |
+| Context papers | 4 |
 
-## Workflow
+Top scoring: P1 (5.0), P3 (5.0), P33 (5.0)
 
-### Step 1: Load All Papers
-Read all `*_compact.md` files from the most recent search session(s).
+Suggested agents:
+  → research-critic    Quality assessment
+  → methodology-expert Study design critique
 
-### Step 2: Define Screening Criteria
-Based on session PICO (from `session_config.json`), define:
-
-**Inclusion Criteria:**
-- Directly addresses [Population]
-- Studies [Intervention] or closely related
-- Reports [Outcome] measures
-- Published [Year range]
-- Peer-reviewed
-
-**Exclusion Criteria:**
-- Wrong population (e.g., clinical vs. community-dwelling)
-- Review/commentary only (no original data)
-- Non-English full text unavailable
-- Duplicate/overlapping samples
-
-### Step 3: Score Each Paper
-For each paper, assign:
-
-| Criterion | Score (1-5) |
-|-----------|-------------|
-| Relevance to PICO | How well does it match? |
-| Methodological quality | Study design rigor |
-| Evidence strength | Quality of findings |
-| Recency | Temporal relevance |
-| Unique contribution | Non-redundant value |
-
-**Overall Score** = Weighted average (Relevance 40%, Quality 30%, Evidence 20%, Unique 10%)
-
-### Step 4: Create Screening Results
-Save to `interactive mode/screening_results.md`:
-```markdown
-# Screening Results
-
-## Summary
-- Total papers screened: X
-- Included: Y
-- Excluded: Z
-
-## Included Papers (Score ≥ 3.5)
-| ID | Title | Year | Score | Rationale |
-|----|-------|------|-------|-----------|
-| P1 | ... | 2023 | 4.2 | High relevance, strong RCT |
-
-## Excluded Papers
-| ID | Title | Reason |
-|----|-------|--------|
-| P45 | ... | Wrong population (stroke patients) |
-```
-
-### Step 5: Create Shortlist
-Save to `interactive mode/shortlist.json`:
-```json
-{
-  "total_screened": 250,
-  "included": 35,
-  "excluded": 215,
-  "threshold": 3.5,
-  "papers": [
-    {"id": "P1", "title": "...", "score": 4.2, ...}
-  ]
-}
-```
-
-## Output Files
-- `interactive mode/screening_results.md`
-- `interactive mode/shortlist.json`
-
-## Agent Suggestion
-After completion, display:
-```
-Screening complete: 35 papers included from 250 screened.
-
-Suggested agent for deeper analysis:
-  → research-critic    For rigorous quality assessment and bias evaluation
-  → methodology-expert For detailed study design critique (RCT, observational)
-
-Next step:
-  → /export-references    Generate APA citations for shortlisted papers
+Next step: /export-references
 ```

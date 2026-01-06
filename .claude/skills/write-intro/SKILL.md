@@ -1,120 +1,58 @@
-# /write-intro
-
-Prepare a complete introduction-writing prompt for Gemini.
-
-## Usage
-```
-/write-intro
-```
-
-## Prerequisites
-- Hypothesis generated (run `/generate-hypothesis` first)
-- All previous outputs exist in `interactive mode/`
-
-## Workflow
-
-### Step 1: Load All Context
-Read:
-- `session_config.json`
-- `shortlist.json` (paper manifest)
-- `sota_review.md`
-- `gap_analysis.md`
-- `hypothesis_specification.md`
-- `journal_recommendations.md`
-
-### Step 2: Build Paper Manifest Table
-Create a citation-ready table of all papers:
-```markdown
-| ID | Authors | Year | Title | Relevance |
-|----|---------|------|-------|-----------|
-| P1 | Smith et al. | 2023 | ... | 0.95 |
-```
-
-### Step 3: Define Writing Structure
-Based on target journal, define introduction structure:
-```markdown
-## Required Structure
-1. Opening context (~400 words)
-2. Theme 1: [from SOTA] (~500 words)
-3. Theme 2: [from SOTA] (~400 words)
-4. Theme 3: [from SOTA] (~400 words)
-5. Gap synthesis (~400 words)
-6. Study rationale and aims (~400 words)
-```
-
-### Step 4: Create Anti-Hallucination Constraints
-```markdown
-## Critical Constraints
-1. ONLY cite papers from the Paper Manifest - NO invented citations
-2. Use APA7 in-text format: (Author, Year)
-3. Address all identified gaps: GAP_001, GAP_002, GAP_003
-4. Population focus: [from PICO]
-5. Scope: Stay within IN boundaries, avoid OUT areas
-```
-
-### Step 5: Assemble Gemini Prompt
-Create `interactive mode/gemini_prompt.md`:
-```markdown
-# Gemini Prompt: Write Introduction Section
-
-Copy everything below this line and paste into Google AI Studio.
-
+---
+name: write-intro
+description: Prepare complete introduction-writing prompt for Gemini with anti-hallucination safeguards
 ---
 
-## TASK
-You are a scientific writing assistant. Write the Introduction section...
+# Write Intro
 
-## PAPER MANIFEST
-[Table of all citable papers]
+## Instructions
 
-## RESEARCH GAPS
-[GAP_001, GAP_002, GAP_003 descriptions]
+1. **Load all context:**
+   - `shortlist.json` - Paper manifest
+   - `sota_review.md` - Background themes
+   - `gap_analysis.md` - Research gaps
+   - `hypothesis_specification.md` - Hypothesis and scope
+   - `journal_recommendations.md` - Target journal
+2. **Build paper manifest table** with citation keys
+3. **Define writing structure** (6 sections, ~2500 words):
+   - Opening context
+   - Deep learning background
+   - Transformer emergence
+   - Recent advances
+   - Critical gap
+   - Study rationale and aims
+4. **Create anti-hallucination constraints:**
+   - ONLY cite papers from manifest
+   - Use exact APA 7 format
+   - No fabricated statistics
+   - Stay within scope boundaries
+5. **Save outputs:**
+   - `interactive mode/gemini_prompt.md` - Copy-paste ready
+   - `interactive mode/handoff_payload.json` - Structured data
+6. **Provide usage instructions** for Google AI Studio
 
-## HYPOTHESIS & AIMS
-[From hypothesis_specification.md]
+## Examples
 
-## REQUIRED STRUCTURE
-[Section-by-section outline with word counts]
+**User:** `/write-intro`
 
-## CRITICAL CONSTRAINTS
-[Anti-hallucination rules]
-
-## BEGIN WRITING
-Write the complete Introduction section now.
-```
-
-### Step 6: Create Payload JSON
-Save to `interactive mode/handoff_payload.json`:
-```json
-{
-  "metadata": {...},
-  "paper_manifest": {...},
-  "gap_analysis": {...},
-  "hypothesis_specification": {...},
-  "target_journals": [...],
-  "gemini_instructions": {...}
-}
-```
-
-## Output Files
-- `interactive mode/gemini_prompt.md` (copy-paste ready)
-- `interactive mode/handoff_payload.json` (structured data)
-
-## Next Step
-After completion, display:
+**Output:**
 ```
 Introduction prompt ready for Gemini.
 
+Paper manifest: 14 citable papers
+Structure: 6 sections (~2500 words)
+Target: IEEE J-BHI
+
+Files created:
+  → gemini_prompt.md (copy-paste ready)
+  → handoff_payload.json (structured)
+
 To use:
-1. Open Google AI Studio (https://aistudio.google.com/)
-2. Copy contents of: interactive mode/gemini_prompt.md
+1. Open https://aistudio.google.com/
+2. Copy contents of gemini_prompt.md
 3. Paste and submit
 
-After Gemini writes introduction:
-  → Verify all citations exist in paper manifest
-  → Check APA7 formatting
-  → Review for scope alignment
-
-Session status:
-  → /session-status    View complete session summary
+After Gemini writes:
+  → Verify citations against manifest
+  → Check APA 7 formatting
 ```

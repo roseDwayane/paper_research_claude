@@ -1,125 +1,54 @@
-# /generate-hypothesis
+---
+name: generate-hypothesis
+description: Generate testable research hypothesis with IN/OUT scope from identified gaps
+---
 
-Generate research hypothesis based on identified gaps.
+# Generate Hypothesis
 
-## Usage
+## Instructions
+
+1. **Load context:**
+   - `gap_analysis.md` - Gaps to address
+   - `sota_review.md` - Background
+   - `session_config.json` - PICO (if exists)
+2. **Select primary gap** with highest priority and feasibility
+3. **Formulate research questions (3-4):**
+   - RQ1: Feasibility question
+   - RQ2: Primary outcome question
+   - RQ3: Transfer/secondary outcome question
+   - RQ4: Mechanism question
+4. **Define hypothesis:**
+   - Primary (H1): Clear, testable statement
+   - Secondary (H2, H3): Supporting hypotheses
+5. **Define scope boundaries:**
+   - IN: Population, intervention, outcomes, setting, design
+   - OUT: Exclusions with rationale
+6. **Recommend 3-5 target journals** with impact factors
+7. **Save outputs:**
+   - `interactive mode/hypothesis_specification.md`
+   - `interactive mode/journal_recommendations.md`
+8. **Suggest agent:** `hypothesis-architect`
+9. **Suggest next step:** `/write-intro`
+
+## Examples
+
+**User:** `/generate-hypothesis`
+
+**Output:**
 ```
-/generate-hypothesis [target-journal]
-```
+Hypothesis generated: 4 RQs, IN/OUT scope defined
 
-## Prerequisites
-- Gap analysis completed (run `/find-gaps` first)
-- `interactive mode/gap_analysis.md` exists
+Primary Hypothesis (H1):
+"A lightweight transformer with Flash Attention can achieve
+real-time EEG denoising (<10ms latency) while maintaining
+CC >0.95, enabling BCI deployment."
 
-## Workflow
+Scope:
+  IN: Scalp EEG, EOG/EMG/ECG artifacts, EEGdenoiseNet
+  OUT: iEEG, MEG, clinical trials
 
-### Step 1: Load Context
-Read:
-- `session_config.json` (PICO)
-- `gap_analysis.md` (gaps to address)
-- `sota_review.md` (background)
+Target Journal: IEEE J-BHI (IF: 7.7)
 
-### Step 2: Select Primary Gap to Address
-Choose the highest-priority gap that:
-- Is feasible to address
-- Has high novelty potential
-- Aligns with user's expertise/resources
-
-### Step 3: Formulate Research Questions
-Create 3-4 research questions:
-```markdown
-**RQ1:** Is [intervention] feasible and acceptable for [population]?
-**RQ2:** Does [intervention] improve [primary outcome]?
-**RQ3:** Do [primary outcome] gains transfer to [secondary outcome]?
-**RQ4:** Does [feature] enhance [mediator] compared to [control]?
-```
-
-### Step 4: Define Hypothesis
-Primary and secondary hypotheses:
-```markdown
-**Primary Hypothesis (H1):**
-[Clear, testable statement addressing Gap 1]
-
-**Secondary Hypotheses:**
-- H2: [Addressing Gap 2]
-- H3: [Addressing Gap 3]
-```
-
-### Step 5: Define Scope Boundaries
-Explicitly state what's IN and OUT:
-```markdown
-## Scope Boundaries
-
-### IN (Inclusion)
-- Population: [specific]
-- Intervention: [specific]
-- Outcomes: [specific]
-- Setting: [specific]
-- Study design: [specific]
-
-### OUT (Exclusion)
-- Population: [what's excluded and why]
-- Intervention: [what's excluded and why]
-- Other: [other exclusions]
-```
-
-### Step 6: Match Target Journals
-Recommend 3-5 journals based on:
-- Scope alignment
-- Impact factor
-- Review timeline
-- Open access options
-
-```markdown
-## Target Journals
-
-### Primary: [Journal Name]
-- Impact Factor: X.X
-- Fit Rationale: [Why this journal is ideal]
-- Special Issue: [If applicable]
-
-### Alternatives:
-1. [Journal 2] - IF: X.X
-2. [Journal 3] - IF: X.X
-```
-
-### Step 7: Save Outputs
-Save to `interactive mode/hypothesis_specification.md`:
-```markdown
-# Hypothesis Specification: [Topic]
-
-## Research Questions
-...
-
-## Hypotheses
-...
-
-## Scope Boundaries
-...
-
-## Expected Significance
-### Theoretical
-[Contribution to theory]
-
-### Practical
-[Real-world implications]
-```
-
-Save to `interactive mode/journal_recommendations.md`
-
-## Output Files
-- `interactive mode/hypothesis_specification.md`
-- `interactive mode/journal_recommendations.md`
-
-## Agent Suggestion
-After completion, display:
-```
-Hypothesis generated with 4 research questions, IN/OUT scope defined.
-Target journal: [Journal Name]
-
-Suggested agent for refinement:
-  → hypothesis-architect    For testability review and scope optimization
-
-Next step:
-  → /write-intro    Prepare introduction prompt for Gemini
+Suggested agent: hypothesis-architect
+Next step: /write-intro
 ```

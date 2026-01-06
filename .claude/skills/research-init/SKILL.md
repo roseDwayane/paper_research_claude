@@ -1,79 +1,51 @@
-# /research-init
+---
+name: research-init
+description: Initialize a research session with PICO framework and generate search queries
+---
 
-Initialize a new research session with structured scope definition.
+# Research Init
 
-## Usage
-```
-/research-init [research topic]
-```
+## Instructions
 
-## Workflow
+1. **Parse the research topic** and extract key components
+2. **Build PICO framework:**
+   - **P**opulation: Target group (e.g., "older adults aged 60+")
+   - **I**ntervention: What's being studied
+   - **C**omparison: Control or alternative
+   - **O**utcome: Primary outcomes to measure
+   - **S**etting: Study context
+3. **Generate 5 search queries:**
+   - Core intervention + population
+   - Mechanism + theoretical basis
+   - Outcome measures + population
+   - Study designs + field
+   - Setting + implementation
+4. **Save outputs:**
+   - `interactive mode/session_config.json` - PICO and queries
+   - `interactive mode/search_queries.md` - Queries with rationale
+5. **Suggest next step:** `/deep-search`
 
-### Step 1: Define Research Topic
-Parse the research topic and extract key components.
+## Examples
 
-### Step 2: Build PICO/PICOS Framework
-Create structured research scope:
+**User:** `/research-init EEG-based cognitive training for elderly`
 
-| Component | Description |
-|-----------|-------------|
-| **P**opulation | Target population (e.g., "community-dwelling older adults aged 60+") |
-| **I**ntervention | What is being studied (e.g., "gamified EEG-BCI training") |
-| **C**omparison | Control or alternative (e.g., "standard care, no intervention") |
-| **O**utcome | Primary outcomes (e.g., "cognitive function, balance") |
-| **S**etting | Study context (e.g., "community, home-based") |
-
-### Step 3: Generate Search Queries
-Based on PICO, generate 5 complementary search queries:
-1. **Core intervention**: [Intervention] + [Population]
-2. **Mechanism**: [Intervention mechanism] + [theoretical basis]
-3. **Outcomes**: [Outcome measures] + [Population]
-4. **Methodology**: [Study designs] + [Intervention field]
-5. **Context**: [Setting] + [Implementation factors]
-
-### Step 4: Create Session Configuration
-Save to `interactive mode/session_config.json`:
+**Output:**
 ```json
 {
-  "topic": "...",
+  "topic": "EEG-based cognitive training for elderly",
   "pico": {
-    "population": "...",
-    "intervention": "...",
-    "comparison": "...",
-    "outcome": "...",
-    "setting": "..."
+    "population": "Community-dwelling older adults aged 60+",
+    "intervention": "EEG neurofeedback cognitive training",
+    "comparison": "Standard care or no intervention",
+    "outcome": "Cognitive function, attention, memory",
+    "setting": "Community or home-based"
   },
-  "queries": ["...", "...", "...", "...", "..."],
-  "created_at": "ISO8601",
-  "status": "initialized"
+  "queries": [
+    "EEG neurofeedback cognitive training older adults",
+    "brain-computer interface aging cognition mechanism",
+    "cognitive assessment elderly intervention outcomes",
+    "randomized controlled trial neurofeedback",
+    "home-based EEG training feasibility"
+  ]
 }
-```
-
-### Step 5: Save Search Queries
-Save to `interactive mode/search_queries.md`:
-```markdown
-# Search Queries for [Topic]
-
-## Query 1: Core Intervention
-**Query:** "..."
-**Rationale:** ...
-
-## Query 2: Mechanism
-...
-```
-
-## Output Files
-- `interactive mode/session_config.json`
-- `interactive mode/search_queries.md`
-
-## Next Step Suggestion
-After completion, display:
-```
-Session initialized successfully.
-
-Next steps:
-  → /deep-search              Run all 5 search queries
-  → Edit search_queries.md    Adjust queries before searching
-
-No agent needed for this step.
 ```
