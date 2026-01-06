@@ -6,6 +6,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Autonomous Research Agent with Claude as Principal Investigator (PI) and Gemini as execution sub-agent. Claude performs strategic research tasks (search, gap analysis, hypothesis generation) and produces a hand-off payload for Gemini to execute writing tasks.
 
+## Two Execution Modes
+
+| Mode | Entry Point | API Key | Description |
+|------|-------------|---------|-------------|
+| **A: Automated** | `python -m src.main "topic"` | Required | Sub-agents run automatically |
+| **B: Interactive** | `python -m src.interactive "topic"` | Not required | Step-by-step with skills |
+
 ## Commands
 
 ```bash
@@ -15,59 +22,144 @@ pip install -e .
 # Interactive mode (no API key required) - RECOMMENDED
 python -m src.interactive "research topic"
 python -m src.interactive "topic" --year-from 2020 --papers-per-source 30
-python -m src.interactive "topic" -q "additional query 1" "additional query 2"
 
 # Automated mode (requires ANTHROPIC_API_KEY in .env)
 python -m src.main "research topic"
 ```
 
+---
+
+## Mode B: Interactive Workflow (Recommended)
+
+### Skills (9 total)
+
+| Step | Skill | Purpose | Output Files |
+|------|-------|---------|--------------|
+| 1 | `/research-init` | Initialize session with PICO | `session_config.json`, `search_queries.md` |
+| 2 | `/deep-search` | Run 5-query literature search | `data/interactive/search_*/` |
+| 3 | `/screen-papers` | Score and filter papers | `screening_results.md`, `shortlist.json` |
+| 4 | `/export-references` | Generate APA citations | `references_apa.md`, `citation_keys.md` |
+| 5 | `/build-sota` | Synthesize thematic review | `sota_review.md`, `knowledge_graph.json` |
+| 6 | `/find-gaps` | Identify research gaps | `gap_analysis.md` |
+| 7 | `/generate-hypothesis` | Formulate hypothesis | `hypothesis_specification.md`, `journal_recommendations.md` |
+| 8 | `/write-intro` | Prepare Gemini prompt | `gemini_prompt.md`, `handoff_payload.json` |
+| 9 | `/session-status` | Show progress | *(display only)* |
+
+### Workflow Diagram
+
+```
+/research-init ──→ /deep-search ──→ /screen-papers ──→ /export-references
+      │                 │                  │                   │
+      ▼                 ▼                  ▼                   ▼
+ session_config    ~200 papers        shortlist.json    references_apa.md
+ search_queries                       (25-40 papers)    citation_keys.md
+      │                                    │
+      └────────────────────────────────────┘
+                                           │
+                                           ▼
+/build-sota ──→ /find-gaps ──→ /generate-hypothesis ──→ /write-intro
+      │              │                  │                    │
+      ▼              ▼                  ▼                    ▼
+ sota_review    gap_analysis      hypothesis_spec      gemini_prompt.md
+ knowledge_graph  (2-3 gaps)      journal_recs        (copy to Gemini)
+```
+
+### Agents (5 total)
+
+Skills suggest agents at key steps. User decides whether to invoke.
+
+| Agent | Expertise | Suggested By |
+|-------|-----------|--------------|
+| `research-critic` | Paper quality & relevance | `/screen-papers` |
+| `methodology-expert` | Study design assessment | `/screen-papers` |
+| `sota-synthesizer` | Literature synthesis | `/build-sota` |
+| `gap-detective` | Gap identification | `/find-gaps` |
+| `hypothesis-architect` | Hypothesis design | `/generate-hypothesis` |
+
+**Key:** All agents work WITHIN user's defined PICO scope, not deciding fields independently.
+
+---
+
+## Output File Structure
+
+After complete workflow:
+
+```
+Research-agent/
+├── interactive mode/
+│   ├── session_config.json          # PICO, queries, session status
+│   ├── search_queries.md            # 5 queries with rationale
+│   ├── screening_results.md         # All papers scored
+│   ├── shortlist.json               # Papers passing threshold
+│   ├── references_apa.md            # APA 7 reference list
+│   ├── citation_keys.md             # P1 → (Author, Year) lookup
+│   ├── references.bib               # BibTeX format (optional)
+│   ├── sota_review.md               # Thematic synthesis
+│   ├── knowledge_graph.json         # Concept relationships
+│   ├── gap_analysis.md              # 2-3 gaps with evidence
+│   ├── hypothesis_specification.md  # Hypothesis + IN/OUT scope
+│   ├── journal_recommendations.md   # Target journals
+│   ├── gemini_prompt.md             # Copy-paste for Gemini
+│   └── handoff_payload.json         # Structured payload
+│
+└── data/
+    └── interactive/
+        └── search_[timestamp]/      # Raw search results
+            ├── {uuid}_compact.md
+            ├── {uuid}_papers.json
+            ├── {uuid}_papers.md
+            └── research.db
+```
+
+---
+
 ## Architecture
 
-### Two-Phase System
-- **Phase 1 (Claude PI):** Search papers → Analyze relevance → Identify gaps → Generate hypothesis → Create hand-off payload
-- **Phase 2 (Gemini):** Receives payload → Writes introduction/literature review (constrained to paper manifest)
-
-### Sub-Agents (in `src/agents/`)
-- `orchestrator.py` - Main coordinator that sequences the workflow
-- `searcher.py` - Runs OpenAlex/PubMed searches, deduplicates results
-- `critic.py` - Scores relevance, identifies research gaps
-- `synthesizer.py` - Generates hypothesis, matches journals, assembles payload
-
 ### Hand-off Payload Contract
-The `HandoffPayload` class in `src/schemas/handoff_payload.py` is the critical interface between Claude and Gemini. Key anti-hallucination safeguards:
+The `HandoffPayload` class in `src/schemas/handoff_payload.py` is the interface between Claude and Gemini.
+
+**Anti-hallucination safeguards:**
 - **Paper Manifest Lock:** Gemini can ONLY cite papers in the manifest
 - **Evidence Linking:** Every gap must reference evidence paper IDs
 - **Checksum Validation:** SHA256 checksum prevents tampering
-- `validate_references()` method verifies all gap citations exist in manifest
 
 ### Search Tools (in `src/tools/search/`)
-- `openalex.py` - Free, no API key required (primary source)
-- `pubmed.py` - Free, optional NCBI API key for higher rate limits
+- `openalex.py` - Free, no API key required (primary)
+- `pubmed.py` - Free, optional NCBI API key
 - `google_scholar.py` - Requires SerpAPI key (optional)
-- `deduplicator.py` - Cross-source deduplication by DOI/title similarity
+- `deduplicator.py` - Cross-source deduplication
 
-## Interactive Mode Workflow
+### Sub-Agents for Automated Mode (in `src/agents/`)
+- `orchestrator.py` - Main coordinator
+- `searcher.py` - Search execution
+- `critic.py` - Relevance scoring
+- `synthesizer.py` - Hypothesis generation
 
-When running interactive research sessions:
-
-1. Run `python -m src.interactive "topic"` to search papers
-2. Outputs saved to `data/interactive/`:
-   - `*_compact.md` - Compact format for Claude Code analysis
-   - `*_papers.json` - Full structured data
-   - `*_papers.md` - Human-readable format
-3. Analyze papers in Claude Code chat (relevance, gaps, hypothesis)
-4. Save synthesis outputs to `interactive mode/` folder:
-   - `sota_review.md`
-   - `hypothesis_specification.md`
-   - `handoff_payload.json`
-   - `gemini_prompt.md` (copy-paste to Google AI Studio)
+---
 
 ## Project-Level Claude Config
 
-This project has its own `.claude/` directory:
-- `.claude/skills/` - Custom skills (`/deep-search`, `/handoff-gemini`)
-- `.claude/agents/` - Custom agents (`research-critic`)
-- `.claude/plans/` - Architecture plans
+```
+.claude/
+├── skills/           # 9 workflow skills
+│   ├── research-init.md
+│   ├── deep-search.md
+│   ├── screen-papers.md
+│   ├── export-references.md
+│   ├── build-sota.md
+│   ├── find-gaps.md
+│   ├── generate-hypothesis.md
+│   ├── write-intro.md
+│   └── session-status.md
+├── agents/           # 5 specialized agents
+│   ├── research-critic.md
+│   ├── methodology-expert.md
+│   ├── sota-synthesizer.md
+│   ├── gap-detective.md
+│   └── hypothesis-architect.md
+└── plans/
+    └── plan-research-agent.md
+```
 
 ## License
 
