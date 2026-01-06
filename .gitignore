@@ -2,3 +2,4 @@ research_agent.egg-info/
 __pycache__/
 *.pyc
 .env
+.obsidian/
