@@ -1,0 +1,200 @@
+{
+  "topic": "EEG noise removal transformer",
+  "generated": "2026-01-06",
+  "concepts": [
+    {
+      "term": "Transformer",
+      "definition": "Deep learning architecture using self-attention mechanisms to capture global dependencies in sequences",
+      "related": ["Self-attention", "Multi-head attention", "Positional encoding"]
+    },
+    {
+      "term": "EEG Denoising",
+      "definition": "Process of removing artifacts and noise from electroencephalography signals to improve signal quality",
+      "related": ["Artifact removal", "Signal preprocessing", "BCI"]
+    },
+    {
+      "term": "CNN-Transformer Hybrid",
+      "definition": "Architecture combining CNNs for local feature extraction with Transformers for global context modeling",
+      "related": ["CT-DCENet", "GCTNet", "EEGDfus", "DHCT-GAN"]
+    },
+    {
+      "term": "Self-attention",
+      "definition": "Mechanism allowing model to weigh importance of different parts of input sequence relative to each other",
+      "related": ["Multi-head attention", "Non-local self-similarity", "Query-Key-Value"]
+    },
+    {
+      "term": "GAN (Generative Adversarial Network)",
+      "definition": "Framework with generator and discriminator networks trained adversarially for signal generation/reconstruction",
+      "related": ["Discriminator", "Adversarial training", "Signal consistency"]
+    },
+    {
+      "term": "Diffusion Model",
+      "definition": "Generative model that learns to denoise by reversing a gradual noising process",
+      "related": ["EEGDfus", "Fine-grained denoising", "Conditional generation"]
+    },
+    {
+      "term": "EOG Artifact",
+      "definition": "Electrooculography artifact from eye movements contaminating EEG signals",
+      "related": ["Ocular artifact", "Blink artifact", "Eye movement"]
+    },
+    {
+      "term": "EMG Artifact",
+      "definition": "Electromyography artifact from muscle activity contaminating EEG signals",
+      "related": ["Muscular artifact", "Facial muscle", "Jaw clenching"]
+    },
+    {
+      "term": "ECG Artifact",
+      "definition": "Electrocardiography artifact from cardiac activity contaminating EEG signals",
+      "related": ["Cardiac artifact", "Heart rate", "Pulse artifact"]
+    },
+    {
+      "term": "EEGdenoiseNet",
+      "definition": "Benchmark semi-simulated dataset for EEG denoising method evaluation",
+      "related": ["Benchmark dataset", "Semi-simulated data", "Ground truth"]
+    },
+    {
+      "term": "BCI (Brain-Computer Interface)",
+      "definition": "System enabling direct communication between brain and external devices via neural signals",
+      "related": ["Motor imagery", "Neurofeedback", "Neural decoding"]
+    },
+    {
+      "term": "ICA (Independent Component Analysis)",
+      "definition": "Traditional signal processing technique for blind source separation in EEG",
+      "related": ["Artifact separation", "Component analysis", "Training data generation"]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Transformer",
+      "to": "EEG Denoising",
+      "type": "enables",
+      "evidence": ["P1", "P3", "P31", "P33"]
+    },
+    {
+      "from": "Self-attention",
+      "to": "Long-range temporal dependencies",
+      "type": "captures",
+      "evidence": ["P1", "P10", "P31"]
+    },
+    {
+      "from": "CNN",
+      "to": "Local temporal features",
+      "type": "extracts",
+      "evidence": ["P3", "P32", "P34", "P35"]
+    },
+    {
+      "from": "CNN-Transformer Hybrid",
+      "to": "EEG Denoising",
+      "type": "improves",
+      "evidence": ["P3", "P32", "P34", "P35"]
+    },
+    {
+      "from": "GAN",
+      "to": "Signal consistency",
+      "type": "enforces",
+      "evidence": ["P32", "P35"]
+    },
+    {
+      "from": "Diffusion Model",
+      "to": "Fine-grained reconstruction",
+      "type": "enables",
+      "evidence": ["P34"]
+    },
+    {
+      "from": "EEG Denoising",
+      "to": "BCI performance",
+      "type": "improves",
+      "evidence": ["P4", "P9", "P18"]
+    },
+    {
+      "from": "EEG Denoising",
+      "to": "Seizure detection",
+      "type": "improves",
+      "evidence": ["P20"]
+    },
+    {
+      "from": "EOG Artifact",
+      "to": "EEG signal quality",
+      "type": "degrades",
+      "evidence": ["P1", "P8", "P33"]
+    },
+    {
+      "from": "EMG Artifact",
+      "to": "EEG signal quality",
+      "type": "degrades",
+      "evidence": ["P1", "P8", "P32"]
+    },
+    {
+      "from": "ICA",
+      "to": "Training data generation",
+      "type": "enables",
+      "evidence": ["P1", "P4"]
+    },
+    {
+      "from": "EEGdenoiseNet",
+      "to": "Method benchmarking",
+      "type": "standardizes",
+      "evidence": ["P31", "P32", "P33", "P34"]
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Pure Transformer Architectures",
+      "papers": ["P1", "P4", "P31"],
+      "key_methods": ["ART", "Multi-head attention stacking"]
+    },
+    {
+      "id": 2,
+      "name": "CNN-Transformer Hybrid Models",
+      "papers": ["P3", "P32", "P34", "P35"],
+      "key_methods": ["CT-DCENet", "GCTNet", "EEGDfus", "DHCT-GAN"]
+    },
+    {
+      "id": 3,
+      "name": "GAN-Guided Denoising",
+      "papers": ["P32", "P35"],
+      "key_methods": ["Discriminator-guided training", "Dual-branch artifact learning"]
+    },
+    {
+      "id": 4,
+      "name": "Attention Mechanisms and Self-Similarity",
+      "papers": ["P33", "P10"],
+      "key_methods": ["EEGDnet", "Non-local/local fusion"]
+    },
+    {
+      "id": 5,
+      "name": "Clinical Applications and BCI Integration",
+      "papers": ["P4", "P8", "P9", "P14", "P18", "P20"],
+      "key_methods": ["Motor imagery", "Emotion recognition", "Seizure detection"]
+    }
+  ],
+  "performance_summary": {
+    "best_eog_removal": {
+      "method": "EEGDfus",
+      "metric": "CC = 0.983",
+      "paper": "P34"
+    },
+    "best_emg_removal": {
+      "method": "GCTNet",
+      "metric": "11.15% RRMSE reduction, 9.81% SNR improvement",
+      "paper": "P32"
+    },
+    "best_mixed_artifacts": {
+      "method": "CT-DCENet",
+      "metric": "0.79 dB SNR increase, 1.9% RRMSE decrease",
+      "paper": "P3"
+    }
+  },
+  "evolution_timeline": [
+    {"year": 2017, "milestone": "EEG/MEG acquisition challenges documented", "paper": "P8"},
+    {"year": 2019, "milestone": "Deep learning for EEG classification established", "paper": "P9"},
+    {"year": 2022, "milestone": "First transformer-based EEG denoising (EEGDnet)", "paper": "P33"},
+    {"year": 2023, "milestone": "Comprehensive transformer BCI review", "paper": "P10"},
+    {"year": 2024, "milestone": "ART establishes transformer benchmark", "paper": "P1"},
+    {"year": 2024, "milestone": "Multi-head attention stacking explored", "paper": "P31"},
+    {"year": 2025, "milestone": "CNN-Transformer hybrids dominate (CT-DCENet, GCTNet)", "paper": "P3"},
+    {"year": 2025, "milestone": "Diffusion models introduced (EEGDfus)", "paper": "P34"},
+    {"year": 2025, "milestone": "Dual-branch artifact-aware learning (DHCT-GAN)", "paper": "P35"}
+  ]
+}

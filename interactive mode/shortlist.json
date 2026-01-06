@@ -1,0 +1,151 @@
+{
+  "topic": "EEG noise removal transformer",
+  "session_id": "31812731-73d9-4e57-8015-b892ec7cd9a3",
+  "screening_date": "2026-01-06",
+  "total_screened": 38,
+  "included": 14,
+  "excluded": 24,
+  "threshold": 3.5,
+  "papers": [
+    {
+      "id": "P1",
+      "title": "ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel EEG",
+      "year": 2024,
+      "source": "openalex",
+      "citations": 3,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. Directly addresses transformer-based EEG artifact removal."
+    },
+    {
+      "id": "P3",
+      "title": "CT-DCENet: Deep EEG Denoising via CNN-Transformer-Based Dual-Stage Collaborative",
+      "year": 2025,
+      "source": "openalex",
+      "citations": 3,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. CNN-Transformer hybrid for EEG denoising."
+    },
+    {
+      "id": "P4",
+      "title": "Augmenting brain-computer interfaces with ART",
+      "year": 2025,
+      "source": "openalex",
+      "citations": 2,
+      "score": 4.9,
+      "category": "core",
+      "rationale": "Core paper. ART application for BCI."
+    },
+    {
+      "id": "P31",
+      "title": "EEG Artifact Removal using Stacked Multi-Head Attention Transformer Architecture",
+      "year": 2024,
+      "source": "pubmed",
+      "citations": null,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. Multi-head attention transformer for EEG artifacts."
+    },
+    {
+      "id": "P32",
+      "title": "A GAN Guided Parallel CNN and Transformer Network for EEG Denoising",
+      "year": 2025,
+      "source": "pubmed",
+      "citations": null,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. GAN + CNN + Transformer hybrid for EEG denoising."
+    },
+    {
+      "id": "P33",
+      "title": "EEGDnet: Fusing non-local and local self-similarity for EEG signal denoising with attention",
+      "year": 2022,
+      "source": "pubmed",
+      "citations": null,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. Attention-based EEG denoising with self-similarity."
+    },
+    {
+      "id": "P34",
+      "title": "EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising",
+      "year": 2025,
+      "source": "pubmed",
+      "citations": null,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. Diffusion model approach for EEG denoising."
+    },
+    {
+      "id": "P35",
+      "title": "DHCT-GAN: Dual-Branch Hybrid CNN-Transformer for EEG Signal Quality",
+      "year": 2025,
+      "source": "pubmed",
+      "citations": null,
+      "score": 5.0,
+      "category": "core",
+      "rationale": "Core paper. Dual-branch CNN-Transformer GAN architecture."
+    },
+    {
+      "id": "P10",
+      "title": "Deep Learning in EEG-Based BCIs: Comprehensive Review of Transformer Models",
+      "year": 2023,
+      "source": "openalex",
+      "citations": 75,
+      "score": 4.4,
+      "category": "review",
+      "rationale": "Review paper. Comprehensive transformer survey for EEG-BCIs."
+    },
+    {
+      "id": "P14",
+      "title": "Exploring Convolutional Neural Network Architectures for EEG Feature Extraction",
+      "year": 2024,
+      "source": "openalex",
+      "citations": 73,
+      "score": 3.9,
+      "category": "context",
+      "rationale": "Methodological context. CNN architectures for EEG."
+    },
+    {
+      "id": "P8",
+      "title": "A Review of Issues Related to Data Acquisition and Analysis in EEG/MEG Studies",
+      "year": 2017,
+      "source": "openalex",
+      "citations": 180,
+      "score": 3.9,
+      "category": "review",
+      "rationale": "Foundational review. EEG noise sources and preprocessing challenges."
+    },
+    {
+      "id": "P9",
+      "title": "Motor Imagery EEG Signals Classification Based on Mode Amplitude and Frequency",
+      "year": 2019,
+      "source": "openalex",
+      "citations": 151,
+      "score": 3.5,
+      "category": "context",
+      "rationale": "Application context. EEG preprocessing for BCI classification."
+    },
+    {
+      "id": "P18",
+      "title": "Role of machine learning and deep learning in EEG-based BCI emotion recognition",
+      "year": 2024,
+      "source": "openalex",
+      "citations": 79,
+      "score": 3.5,
+      "category": "context",
+      "rationale": "Application context. ML/DL for EEG with preprocessing discussion."
+    },
+    {
+      "id": "P20",
+      "title": "Epileptic Seizures Detection in EEG Signals Using Fusion Handcrafted and Deep Learning",
+      "year": 2021,
+      "source": "openalex",
+      "citations": 77,
+      "score": 3.5,
+      "category": "context",
+      "rationale": "Clinical application. EEG preprocessing for seizure detection."
+    }
+  ]
+}

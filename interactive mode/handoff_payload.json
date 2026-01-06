@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "topic": "EEG noise removal transformer",
+    "session_id": "31812731-73d9-4e57-8015-b892ec7cd9a3",
+    "generated_at": "2026-01-06",
+    "workflow_version": "1.0",
+    "target_journal": "IEEE Journal of Biomedical and Health Informatics",
+    "checksum": "sha256:pending_validation"
+  },
+  "paper_manifest": {
+    "total_papers": 14,
+    "categories": {
+      "core": 8,
+      "review": 2,
+      "context": 4
+    },
+    "papers": [
+      {
+        "id": "P1",
+        "citation_key": "Chuang et al., 2024",
+        "authors": ["Chuang, C.-H.", "Chang, K.-Y.", "Huang, C.-S.", "Bessas, A.-M."],
+        "year": 2024,
+        "title": "ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel EEG",
+        "journal": "arXiv",
+        "doi": "10.48550/arxiv.2409.07326",
+        "category": "core",
+        "key_findings": ["End-to-end multichannel denoising", "ICA-enhanced training data", "Benchmark performance on EEGdenoiseNet"]
+      },
+      {
+        "id": "P3",
+        "citation_key": "Tang et al., 2025",
+        "authors": ["Tang, Y.", "Huang, W.", "Chen, C.", "Chen, D."],
+        "year": 2025,
+        "title": "CT-DCENet: Deep EEG Denoising via CNN-Transformer-Based Dual-Stage Collaborative",
+        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "doi": "10.1109/jbhi.2025.3535592",
+        "category": "core",
+        "key_findings": ["0.79 dB SNR improvement", "1.9% RRMSE reduction", "Dual-stage collaborative learning"]
+      },
+      {
+        "id": "P4",
+        "citation_key": "Chuang et al., 2025",
+        "authors": ["Chuang, C.-H.", "Chang, K.-Y.", "Huang, C.-S.", "Bessas, A.-M."],
+        "year": 2025,
+        "title": "Augmenting brain-computer interfaces with ART",
+        "journal": "NeuroImage",
+        "doi": "10.1016/j.neuroimage.2025.121123",
+        "category": "core",
+        "key_findings": ["BCI performance enhancement", "Naturalistic environments"]
+      },
+      {
+        "id": "P8",
+        "citation_key": "Puce & Hämäläinen, 2017",
+        "authors": ["Puce, A.", "Hämäläinen, M."],
+        "year": 2017,
+        "title": "A Review of Issues Related to Data Acquisition and Analysis in EEG/MEG Studies",
+        "journal": "Brain Sciences",
+        "doi": "10.3390/brainsci7060058",
+        "category": "review",
+        "key_findings": ["EEG artifact sources", "Data acquisition challenges", "Preprocessing requirements"]
+      },
+      {
+        "id": "P9",
+        "citation_key": "Sadiq et al., 2019",
+        "authors": ["Sadiq, M. T.", "Yu, X.", "Yuan, Z.", "Fan, Z.", "Rehman, A. U.", "Li, G.", "Xiao, G."],
+        "year": 2019,
+        "title": "Motor Imagery EEG Signals Classification",
+        "journal": "IEEE Access",
+        "doi": "10.1109/access.2019.2939623",
+        "category": "context",
+        "key_findings": ["95.2% classification accuracy", "Empirical wavelet transform"]
+      },
+      {
+        "id": "P10",
+        "citation_key": "Abibullaev et al., 2023",
+        "authors": ["Abibullaev, B.", "Keutayeva, A.", "Zollanvari, A."],
+        "year": 2023,
+        "title": "Deep Learning in EEG-Based BCIs: Comprehensive Review of Transformer Models",
+        "journal": "IEEE Access",
+        "doi": "10.1109/access.2023.3329678",
+        "category": "review",
+        "key_findings": ["Transformer advantages", "Computational overhead noted", "Self-attention benefits"]
+      },
+      {
+        "id": "P14",
+        "citation_key": "Rakhmatulin et al., 2024",
+        "authors": ["Rakhmatulin, I.", "Dao, M.-S.", "Nassibi, A.", "Mandic, D. P."],
+        "year": 2024,
+        "title": "Exploring CNN Architectures for EEG Feature Extraction",
+        "journal": "Sensors",
+        "doi": "10.3390/s24030877",
+        "category": "context",
+        "key_findings": ["CNN design principles", "Feature extraction methods"]
+      },
+      {
+        "id": "P18",
+        "citation_key": "Samal & Hashmi, 2024",
+        "authors": ["Samal, P.", "Hashmi, M. F."],
+        "year": 2024,
+        "title": "Role of ML/DL in EEG-based BCI emotion recognition",
+        "journal": "Artificial Intelligence Review",
+        "doi": "10.1007/s10462-023-10690-2",
+        "category": "context",
+        "key_findings": ["ML/DL for EEG", "Preprocessing importance"]
+      },
+      {
+        "id": "P20",
+        "citation_key": "Malekzadeh et al., 2021",
+        "authors": ["Malekzadeh, A.", "Zare, A.", "Yaghoobi, M.", "Kobravi, H.-R.", "Alizadehsani, R."],
+        "year": 2021,
+        "title": "Epileptic Seizures Detection in EEG Signals",
+        "journal": "Sensors",
+        "doi": "10.3390/s21227710",
+        "category": "context",
+        "key_findings": ["99.71% accuracy", "CNN-RNN fusion"]
+      },
+      {
+        "id": "P31",
+        "citation_key": "Gowtham Reddy et al., 2024",
+        "authors": ["Gowtham Reddy, N.", "Guha, D.", "Mahadevappa, M."],
+        "year": 2024,
+        "title": "EEG Artifact Removal using Stacked Multi-Head Attention Transformer",
+        "journal": "IEEE EMBC",
+        "doi": "10.1109/EMBC53108.2024.10782044",
+        "category": "core",
+        "key_findings": ["Stacked multi-head attention", "Long-range temporal dependencies"]
+      },
+      {
+        "id": "P32",
+        "citation_key": "Yin et al., 2025",
+        "authors": ["Yin, J.", "Liu, A.", "Li, C.", "Qian, R.", "Chen, X."],
+        "year": 2025,
+        "title": "GCTNet: GAN Guided Parallel CNN and Transformer for EEG Denoising",
+        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "doi": "10.1109/JBHI.2023.3277596",
+        "category": "core",
+        "key_findings": ["11.15% RRMSE reduction", "9.81% SNR improvement", "GAN-guided training"]
+      },
+      {
+        "id": "P33",
+        "citation_key": "Pu et al., 2022",
+        "authors": ["Pu, X.", "Yi, P.", "Chen, K.", "Ma, Z.", "Zhao, D.", "Ren, Y."],
+        "year": 2022,
+        "title": "EEGDnet: Fusing non-local and local self-similarity for EEG denoising",
+        "journal": "Computers in Biology and Medicine",
+        "doi": "10.1016/j.compbiomed.2022.106248",
+        "category": "core",
+        "key_findings": ["18% CC improvement (EOG)", "11% CC improvement (EMG)", "First transformer for EEG denoising"]
+      },
+      {
+        "id": "P34",
+        "citation_key": "Huang et al., 2025",
+        "authors": ["Huang, X.", "Li, C.", "Liu, A.", "Qian, R.", "Chen, X."],
+        "year": 2025,
+        "title": "EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising",
+        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "doi": "10.1109/JBHI.2024.3504716",
+        "category": "core",
+        "key_findings": ["CC = 0.983 (EEGdenoiseNet)", "CC = 0.992 (SSED)", "Diffusion model approach"]
+      },
+      {
+        "id": "P35",
+        "citation_key": "Cai et al., 2025",
+        "authors": ["Cai, Y.", "Meng, Z.", "Huang, D."],
+        "year": 2025,
+        "title": "DHCT-GAN: Dual-Branch Hybrid CNN-Transformer for EEG Signal Quality",
+        "journal": "Sensors",
+        "doi": "10.3390/s25010231",
+        "category": "core",
+        "key_findings": ["Dual-branch architecture", "Artifact-aware learning", "PSD preservation"]
+      }
+    ]
+  },
+  "gap_analysis": {
+    "total_gaps": 3,
+    "gaps": [
+      {
+        "id": "GAP_001",
+        "title": "Real-Time Lightweight Architectures",
+        "type": "Methodological",
+        "severity": "Critical",
+        "novelty_potential": "High",
+        "evidence_strength": "Strong",
+        "confidence": 0.95,
+        "description": "No existing transformer-based EEG denoising method addresses real-time processing requirements or computational efficiency for deployment.",
+        "evidence_papers": ["P1", "P3", "P10", "P32", "P34", "P35"],
+        "quantitative_evidence": "0/8 core papers report inference latency or model parameters"
+      },
+      {
+        "id": "GAP_002",
+        "title": "Clinical Validation on Real-World EEG",
+        "type": "Context",
+        "severity": "Critical",
+        "novelty_potential": "High",
+        "evidence_strength": "Strong",
+        "confidence": 0.98,
+        "description": "All transformer-based EEG denoising methods are validated exclusively on semi-simulated datasets.",
+        "evidence_papers": ["P1", "P3", "P31", "P32", "P33", "P34"],
+        "quantitative_evidence": "0/8 core papers use clinical EEG recordings"
+      },
+      {
+        "id": "GAP_003",
+        "title": "Cross-Dataset Generalization",
+        "type": "Methodological",
+        "severity": "Moderate",
+        "novelty_potential": "Medium-High",
+        "evidence_strength": "Moderate",
+        "confidence": 0.85,
+        "description": "No systematic evaluation of cross-dataset or cross-subject generalization.",
+        "evidence_papers": ["P3", "P32", "P34", "P10"],
+        "quantitative_evidence": "0/8 papers apply domain adaptation or transfer learning"
+      }
+    ]
+  },
+  "hypothesis_specification": {
+    "primary_hypothesis": "A lightweight transformer architecture utilizing Flash Attention and channel-wise linear projection can achieve real-time EEG denoising (inference latency <10ms on GPU) while maintaining state-of-the-art performance (correlation coefficient >0.95 on EEGdenoiseNet), representing a >10x speedup over existing methods.",
+    "research_questions": [
+      "RQ1: Can efficient transformer variants achieve comparable EEG denoising performance while significantly reducing computational cost?",
+      "RQ2: What is the minimum latency achievable for transformer-based EEG denoising on standard hardware?",
+      "RQ3: What is the optimal architecture configuration that maximizes denoising quality per unit of computational cost?",
+      "RQ4: Can the proposed lightweight model be deployed on edge devices for wearable BCI applications?"
+    ],
+    "scope": {
+      "in": {
+        "signal_type": "Multi-channel scalp EEG (19-64 channels)",
+        "artifact_types": ["EOG", "EMG", "ECG"],
+        "architecture": "Transformer-based with attention mechanisms",
+        "efficiency_techniques": ["Flash Attention", "Linear attention", "Pruning", "Quantization", "Distillation"],
+        "datasets": ["EEGdenoiseNet", "SSED"],
+        "hardware": ["NVIDIA GPU", "Intel CPU", "Jetson Nano"],
+        "evaluation_metrics": ["CC", "RRMSE", "SNR", "Latency", "FLOPs", "Parameters"]
+      },
+      "out": {
+        "signal_type": ["iEEG", "MEG"],
+        "artifact_types": ["Line noise", "Electrode artifacts"],
+        "architecture": ["Pure CNN", "RNN", "Classical methods"],
+        "clinical_validation": "Real patient data, clinical trials",
+        "other": ["Online learning", "Interpretability", "Custom ASICs/FPGAs"]
+      }
+    },
+    "success_criteria": {
+      "correlation_coefficient": ">0.95",
+      "gpu_latency": "<10ms",
+      "cpu_latency": "<50ms",
+      "model_parameters": "<1M",
+      "flops_reduction": ">5x vs SOTA"
+    }
+  },
+  "target_journals": [
+    {
+      "name": "IEEE Journal of Biomedical and Health Informatics",
+      "abbreviation": "J-BHI",
+      "impact_factor": 7.7,
+      "fit_score": 95,
+      "recommendation": "PRIMARY"
+    },
+    {
+      "name": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "abbreviation": "TNSRE",
+      "impact_factor": 4.9,
+      "fit_score": 88,
+      "recommendation": "Alternative 1"
+    },
+    {
+      "name": "NeuroImage",
+      "abbreviation": "NI",
+      "impact_factor": 5.7,
+      "fit_score": 85,
+      "recommendation": "Alternative 2"
+    }
+  ],
+  "gemini_instructions": {
+    "task": "Write Introduction section",
+    "word_count": "2500-3000",
+    "style": "Formal academic, third person, APA 7th edition",
+    "structure": [
+      "Opening Context (~400 words)",
+      "Deep Learning Revolution (~500 words)",
+      "Transformer Emergence (~600 words)",
+      "CNN-Transformer Hybrids (~500 words)",
+      "Critical Gap: Efficiency (~400 words)",
+      "Study Rationale and Aims (~400 words)"
+    ],
+    "constraints": [
+      "ONLY cite papers from paper_manifest",
+      "Use exact APA 7 format",
+      "Do NOT fabricate statistics",
+      "Stay within defined scope",
+      "Do NOT claim clinical validation exists"
+    ]
+  },
+  "workflow_status": {
+    "research_init": "completed",
+    "deep_search": "completed",
+    "screen_papers": "completed",
+    "export_references": "completed",
+    "build_sota": "completed",
+    "find_gaps": "completed",
+    "generate_hypothesis": "completed",
+    "write_intro": "completed"
+  }
+}
